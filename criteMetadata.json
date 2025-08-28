@@ -18,7 +18,17 @@
         "caption": "Crite, Allan Rohan. [Early drawings of Allan Rohan Crite, ages 10-17]. 1920-1927. Crayon, some with wash, 31.4 x 45.5 cm. Boston Athenaeum."
       }
     ],
-    "description": "sample description here"
+    "description": "sample description here.[1] Here is a second footnote.[2] \n Here is a paragraph break",
+    "footnotes": [
+      {
+        "number": 1,
+        "content": "footnote content goes here"
+      },
+      {
+        "number": 2,
+        "content": "second footnote!!"
+      }
+    ]
   },
   {
     "location_name": "Row 2",
@@ -39,7 +49,13 @@
         "caption": "South End Branch. Mrs. Cronan telling a story. Photograph. [1911\u20131923]. Digital Commonwealth."
       }
     ],
-    "description": "sample description here"
+    "description": "sample description here[1]",
+    "footnotes": [
+      {
+        "number": 1,
+        "content": "footnote content goes here"
+      }
+    ]
   },
   {
     "location_name": "Row 3",
@@ -60,7 +76,13 @@
         "caption": "Crite, Allan Rohan. Girls Playing on My Street. August 1940. Watercolor with black ink and white gouache over graphite, 38.1 x 28 cm. Boston Athenaeum."
       }
     ],
-    "description": "sample description here"
+    "description": "sample description here[1]",
+    "footnotes": [
+      {
+        "number": 1,
+        "content": "footnote content goes here"
+      }
+    ]
   },
   {
     "location_name": "Row 4",
@@ -74,7 +96,13 @@
         "caption": "Crite, Allan Rohan. [Early Drawings of Allan Rohan Crite, ages 10-17]. 1920-1927. Crayon, 31.4 x 45.5 cm. Boston Athenaeum."
       }
     ],
-    "description": "sample description here"
+    "description": "sample description here[1]",
+    "footnotes": [
+      {
+        "number": 1,
+        "content": "footnote content goes here"
+      }
+    ]
   },
   {
     "location_name": "Row 5",
@@ -88,7 +116,13 @@
         "caption": "Marr, Thomas E., -1910. \"Boston. Public Latin school. Warren Avenue and Dartmouth Street (now English High School).\" Photograph. [ca. 1905]. Digital Commonwealth."
       }
     ],
-    "description": "sample description here"
+    "description": "sample description here[1]",
+    "footnotes": [
+      {
+        "number": 1,
+        "content": "footnote content goes here"
+      }
+    ]
   },
   {
     "location_name": "Row 6",
@@ -109,7 +143,13 @@
         "caption": "Allan Crite Serving as Lay Reader at St. Bartholomew\u2019s Church. December 1944. Photograph. Courtesy of The Archives of the Episcopal Church."
       }
     ],
-    "description": "sample description here"
+    "description": "sample description here[1]",
+    "footnotes": [
+      {
+        "number": 1,
+        "content": "footnote content goes here"
+      }
+    ]
   },
   {
     "location_name": "Row 7",
@@ -123,7 +163,13 @@
         "caption": "Crite, Allan Rohan. [Personal sketchbook of Allan Rohan Crite] [graphic]. [ca. 1932]. Ill. (drawings, pen and ink, watercolor), 20 cm. Boston Athenaeum."
       }
     ],
-    "description": "sample description here"
+    "description": "sample description here[1]",
+    "footnotes": [
+      {
+        "number": 1,
+        "content": "footnote content goes here"
+      }
+    ]
   },
   {
     "location_name": "Row 8",
@@ -144,7 +190,13 @@
         "caption": "Crite, Allan Rohan. Street Scene. 1934. Oil on canvas, 60.5 x 45.5 cm. Boston Athenaeum."
       }
     ],
-    "description": "sample description here"
+    "description": "sample description here[1]",
+    "footnotes": [
+      {
+        "number": 1,
+        "content": "footnote content goes here"
+      }
+    ]
   },
   {
     "location_name": "Row 9",
@@ -172,7 +224,13 @@
         "caption": "Crite, Allan Rohan. \u201c410 Columbus Avenue\u201d from An Artist\u2019s Sketchbook of the South End: A Walking Tour about Black People. 1977. Offset color lithograph, 21.7 x 27.9 cm. Boston Athenaeum. UT.9 U9 Cri.a. 1977."
       }
     ],
-    "description": "sample description here"
+    "description": "sample description here[1]",
+    "footnotes": [
+      {
+        "number": 1,
+        "content": "footnote content goes here"
+      }
+    ]
   },
   {
     "location_name": "Row 10",
@@ -200,7 +258,13 @@
         "caption": "Crite, Allan Rohan. \u201c410 Columbus Avenue\u201d from An Artist\u2019s Sketchbook of the South End: A Walking Tour about Black People. 1977. Offset color lithograph, 21.7 x 27.9 cm. Boston Athenaeum. UT.9 U9 Cri.a. 1977."
       }
     ],
-    "description": "sample description here"
+    "description": "sample description here[1]",
+    "footnotes": [
+      {
+        "number": 1,
+        "content": "footnote content goes here"
+      }
+    ]
   },
   {
     "location_name": "Row 11",
@@ -235,7 +299,13 @@
         "caption": "Hall, Winifred Irish. \"Winnie\" Irish Poses with Russell and Hyacinth in Front of the Lenox Street Projects. Photography by Winifred Irish Hall, Lower Roxbury Black History Project, Northeastern University Archives and Special Collections."
       }
     ],
-    "description": "sample description here"
+    "description": "sample description here[1]",
+    "footnotes": [
+      {
+        "number": 1,
+        "content": "footnote content goes here"
+      }
+    ]
   },
   {
     "location_name": "Row 12",
@@ -256,7 +326,13 @@
         "caption": "Crite, Allan Rohan. An Incident at Mass. 1940. Watercolor with black ink and white highlights over graphite, 38.1 x 28 cm. Boston Athenaeum."
       }
     ],
-    "description": "sample description here"
+    "description": "sample description here[1]",
+    "footnotes": [
+      {
+        "number": 1,
+        "content": "footnote content goes here"
+      }
+    ]
   },
   {
     "location_name": "Row 13",
@@ -284,7 +360,13 @@
         "caption": "Hall, Winifred Irish. Annie Holds her Baby in Madison Park. [1935-1945]. Photography by Winifred Irish Hall, Lower Roxbury Black History Project, Northeastern University Archives and Special Collections."
       }
     ],
-    "description": "sample description here"
+    "description": "sample description here[1]",
+    "footnotes": [
+      {
+        "number": 1,
+        "content": "footnote content goes here"
+      }
+    ]
   },
   {
     "location_name": "Row 14",
@@ -312,7 +394,13 @@
         "caption": "Crite, Allan Rohan. 7 a.m. car. 1943. Watercolor and black ink over graphite, 28.8 x 21.6 cm. Boston Athenaeum."
       }
     ],
-    "description": "sample description here"
+    "description": "sample description here[1]",
+    "footnotes": [
+      {
+        "number": 1,
+        "content": "footnote content goes here"
+      }
+    ]
   },
   {
     "location_name": "Row 15",
@@ -333,7 +421,13 @@
         "caption": "Crite, Allan Rohan. St. James Ep[iscopal] Church from Washington St., Roxbury. May 1940. Watercolor with black ink and white highlights over graphite, 38.1 x 28 cm. Boston Athenaeum."
       }
     ],
-    "description": "sample description here"
+    "description": "sample description here[1]",
+    "footnotes": [
+      {
+        "number": 1,
+        "content": "footnote content goes here"
+      }
+    ]
   },
   {
     "location_name": "Row 16",
@@ -354,7 +448,13 @@
         "caption": "Crite, Allan Rohan. Weld Boat Club on the Charles River. August 1940. Watercolor with black ink and white gouache over graphite, 28.1 x 38.1."
       }
     ],
-    "description": "sample description here"
+    "description": "sample description here[1]",
+    "footnotes": [
+      {
+        "number": 1,
+        "content": "footnote content goes here"
+      }
+    ]
   },
   {
     "location_name": "Row 17",
@@ -368,7 +468,13 @@
         "caption": "Crite, Allan Rohan. \u201c410 Columbus Avenue\u201d from An Artist\u2019s Sketchbook of the South End: A Walking Tour about Black People. 1977. Offset color lithograph, 21.7 x 27.9 cm. Boston Athenaeum. UT.9 U9 Cri.a. 1977."
       }
     ],
-    "description": "sample description here"
+    "description": "sample description here[1]",
+    "footnotes": [
+      {
+        "number": 1,
+        "content": "footnote content goes here"
+      }
+    ]
   },
   {
     "location_name": "Row 18",
@@ -382,7 +488,13 @@
         "caption": "Crite, Allan Rohan. \u201c410 Columbus Avenue\u201d from An Artist\u2019s Sketchbook of the South End: A Walking Tour about Black People. 1977. Offset color lithograph, 21.7 x 27.9 cm. Boston Athenaeum. UT.9 U9 Cri.a. 1977."
       }
     ],
-    "description": "sample description here"
+    "description": "sample description here[1]",
+    "footnotes": [
+      {
+        "number": 1,
+        "content": "footnote content goes here"
+      }
+    ]
   },
   {
     "location_name": "Row 19",
@@ -396,7 +508,13 @@
         "caption": "Crite, Allan Rohan. Combat Zone. 1977-1978. Offset lithographs, color and b&w, 21.7 x 28 cm. or 21.7 x 35.6 cm. + 1 booklet. Boston Athenaeum."
       }
     ],
-    "description": "sample description here"
+    "description": "sample description here[1]",
+    "footnotes": [
+      {
+        "number": 1,
+        "content": "footnote content goes here"
+      }
+    ]
   },
   {
     "location_name": "Row 20",
@@ -410,7 +528,13 @@
         "caption": "Crite, Allan Rohan. \u201c410 Columbus Avenue\u201d from An Artist\u2019s Sketchbook of the South End: A Walking Tour about Black People. 1977. Offset color lithograph, 21.7 x 27.9 cm. Boston Athenaeum. UT.9 U9 Cri.a. 1977."
       }
     ],
-    "description": "sample description here"
+    "description": "sample description here[1]",
+    "footnotes": [
+      {
+        "number": 1,
+        "content": "footnote content goes here"
+      }
+    ]
   },
   {
     "location_name": "Row 21",
@@ -424,6 +548,12 @@
         "caption": "Crite, Allan Rohan. Old South Church [i.e. Park Street Church] from the Old Granary Buryial [sic] Ground. 1941. Watercolor, gouache, ink ; sheet 43 x 36 cm."
       }
     ],
-    "description": "sample description here"
+    "description": "sample description here[1]",
+    "footnotes": [
+      {
+        "number": 1,
+        "content": "footnote content goes here"
+      }
+    ]
   }
 ]
