@@ -369,52 +369,59 @@
     ]
   },
   {
-    "location_name": "Row 11",
+    "location_name": "Lenox Street",
     "location_number": 11,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
+        "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/24/full/full/0/default.jpg",
+        "title": "Just Greetings",
         "format": "format_placeholder",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/24/",
         "caption": "Crite, Allan Rohan. Just Greetings. 1940. Wash and black ink over graphite, 38.2 x 28 cm Boston Athenaeum."
       },
       {
         "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
+        "title": "The Last of Dillon Street",
         "format": "format_placeholder",
-        "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/26/rec/27",
+        "url": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/26/full/full/0/default.jpg",
         "caption": "Crite, Allan Rohan. The Last of Dillon Street. Watercolor and black ink, 38.2 x 28 cm. Boston Athenaeum."
       },
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
-        "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/10/rec/12",
-        "caption": "Crite, Allan Rohan. In the Choir Robing Room. January 1939. Graphite, 42.4 x 30.7 cm. Boston Athenaeum."
-      },
-      {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
+        "path": "ask ian about this",
+        "title": "\"Winnie\" Irish Poses with Russell and Hyacinth in Front of the Lenox Street Projects",
         "format": "format_placeholder",
         "url": "http://hdl.handle.net/2047/D20197203",
         "caption": "Hall, Winifred Irish. \"Winnie\" Irish Poses with Russell and Hyacinth in Front of the Lenox Street Projects. Photography by Winifred Irish Hall, Lower Roxbury Black History Project, Northeastern University Archives and Special Collections."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Allan Rohan Crite (1910-2007) depicted Lenox Street and its surroundings in much of his work while living nearby at the now demolished 2 Dilworth Street.\n In his art, Crite blended memory, documentary, and narrative elements, often reworking or reimagining scenes from his everyday encounters. Crite’s watercolor Just Greetings (1940) is one example of a painting that includes his description of the work’s location. On the back of the paper, he wrote, “Camden St. Near Shawmut Ave.”[1] The watercolor shows the block adjacent to the then recently opened Lenox Street Projects, the first public housing project in the city intentionally built for African Americans, and at the future site of the Camden Street Apartments.[2] Crite also created several works depicting construction of the apartment site, including The Last of Dillon Street (1940).[3]\n Photographer Winifred Irish Hall, who also lived and spent time in the South End and Lower Roxbury, took pictures of the Lenox Street Projects surroundings and residents. Her photographs share a remarkable comparison to Crite’s work.[4]The two artists offer a glimpse into a neighborhood that would see accelerated building demolition and displacement of its residents when the Boston Redevelopment Authority (BRA) put forth its South End Urban Renewal Project in 1962.",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "Crite, Allan Rohan. Just Greetings. 1940. Boston Athenaeum. https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/24/."
+      },
+      {
+      "number": 2,
+      "content": "Vale, Lawrence J. From the Puritans to the Projects: Public Housing and Public Neighbors. Harvard University Press, 2000.; Vale, Lawrence J. Reclaiming Public Housing: A Half Century of Struggle in Three Public Neighborhoods. Harvard University Press, 2002."
+      },
+      {
+      "number": 3,
+      "content": "Rushing, Byron. “The Lost and Found Paintings of Allan Rohan Crite: [exhibition catalog with comments by Allan Rohan Crite]” (1982). Clark Collection Publications. 1.
+https://dc.suffolk.edu/afam/1.; Crite, Allan Rohan. The Last of Dillon Street. Watercolor and black ink, 38.2 x 28 cm. Boston Athenaeum. https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/26/rec/27."
+      },
+      {
+      "number": 4,
+      "content": " ““Winnie”. Irish poses with Russell and Hyacinth in front of the Lenox Street Projects.” Photograph. [1935-1945]. Northeastern University Library. http://hdl.handle.net/2047/D20197203.; We are thankful to Lolita Parker Jr. for furnishing this source and sharing her knowledge on Lower Roxbury. Thank you to the estate of Winifred Irish Hall for permission to use this photograph."
       }
+        
     ]
   },
   {
-    "location_name": "Row 12",
+    "location_name": "Saint Augustine and Saint Martin",
     "location_number": 12,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
+        "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/10/full/full/0/default.jpg",
         "title": "title_placeholder",
         "format": "format_placeholder",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/10/rec/12",
