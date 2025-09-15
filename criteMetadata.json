@@ -1,136 +1,208 @@
 [
-  {
-    "location_name": "Row 1",
+  {"location_name": "Boston Public Library South End Branch",
     "location_number": 1,
     "images": [
       {
         "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463k343/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
+        "title": "South End Branch. Mrs. Cronan Telling a Story",
         "format": "format_placeholder",
         "url": "https://ark.digitalcommonwealth.org/ark:/50959/3f463k33t",
         "caption": "Photographer unknown. South End Branch. Mrs. Cronan telling a story. Photograph. [1911\u20131923]. Digital Commonwealth."
       },
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
+        "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/51/full/full/0/default.jpg",
+        "title": "Early drawings of Allan Rohan Crite, ages 10-17",
         "format": "format_placeholder",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/51/rec/4",
         "caption": "Crite, Allan Rohan. [Early drawings of Allan Rohan Crite, ages 10-17]. 1920-1927. Crayon, some with wash, 31.4 x 45.5 cm. Boston Athenaeum."
       }
     ],
-    "description": "sample description here.[1] Here is a second footnote.[2] \n Here is a paragraph break",
+    "description": "Allan Rohan Crite and his parents moved to 401 Shawmut Avenue in Boston’s South End when he was a young child after a brief stint on the same street in Lower Roxbury.[1] The Crite family eventually moved to 2 Dilworth street, in 1925.[2] \n 
+    At 401 Shawmut Avenue, Crite first began to draw and illustrate. He was a student at the George Bancroft and Rice Schools, attended classes at the South End’s Children’s Art Centre, and spent time outside the traditional classroom immersed in his neighborhood. The former location of the South End Branch of the Boston Public Library sat down the block from his home at 397 Shawmut Avenue. The branch later moved across the street to the John J. Williams Municipal Building at 400 Shawmut Avenue. Crite was a frequent patron.[3]\n
+    In a 1979 oral history, Crite recalled fondly his time at his family’s first Boston apartment, “Well, I lived there. You see, I lived at 401 Shawmut Ave. and I also practically lived in the library, right next door. So it meant a great deal to me, a part of my formative period, you might say.[4] The South End Branch held an exhibition of Crite’s work in 1950 as part of their Race History Week.[5]",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "U.S. Census Bureau. Fourteenth Census of the United States: 1920-Population.Department of Commerce-Bureau of the Census. National Archives and Record Administration.; Oral history interview with Allan Rohan Crite, 1979 January 16-1980 October 22. Archives of American Art, Smithsonian Institution.; Walshin, Lydia. “Walking Tour.” Glue magazine, September 1997, 17-20."
       },
       {
         "number": 2,
-        "content": "second footnote!!"
+        "content": "U.S. Census Bureau. Fifteenth Census of the United States: 1930. Department of Commerce-Bureau of the Census. National Archives and Record Administration. "
+      },
+      {
+        "number": 3,
+        "content": "South End Branch.” Boston Public Library. https://www.bpl.org/about-south-end/."
+      },
+      {
+        "number": 4
+        "content": "Oral history interview with Allan Rohan Crite, 1979 January 16-1980 October 22. Archives of American Art, Smithsonian Institution."
+      },
+      {
+        "number": 5
+        "content": "The Guardian. [volume] (Boston, Mass.), 11 Feb. 1950. Chronicling America: Historic American Newspapers. Lib. of Congress. <https://chroniclingamerica.loc.gov/lccn/sn83045863/1950-02-11/ed-1/seq-3/>."
       }
-    ]
-  },
-  {
-    "location_name": "Row 2",
+
+    "location_name": "401 Shawmut Avenue",
     "location_number": 2,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
+        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463k343/full/1200,/0/default.jpg",
+        "title": "South End Branch. Mrs. Cronan Telling a Story",
+        "format": "format_placeholder",
+        "url": "https://ark.digitalcommonwealth.org/ark:/50959/3f463k33t",
+        "caption": "Photographer unknown. South End Branch. Mrs. Cronan telling a story. Photograph. [1911\u20131923]. Digital Commonwealth."
+      },
+      {
+        "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/51/full/full/0/default.jpg",
+        "title": "Early drawings of Allan Rohan Crite, ages 10-17",
         "format": "format_placeholder",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/51/rec/4",
         "caption": "Crite, Allan Rohan. [Early drawings of Allan Rohan Crite, ages 10-17]. 1920-1927. Crayon, some with wash, 31.4 x 45.5 cm. Boston Athenaeum."
-      },
-      {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
-        "url": "https://ark.digitalcommonwealth.org/ark:/50959/3f463k33t.",
-        "caption": "South End Branch. Mrs. Cronan telling a story. Photograph. [1911\u20131923]. Digital Commonwealth."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Allan Rohan Crite and his parents moved to 401 Shawmut Avenue in Boston’s South End when he was a young child after a brief stint on the same street in Lower Roxbury.[1] The Crite family eventually moved to 2 Dilworth street, in 1925.[2] \n 
+    At 401 Shawmut Avenue, Crite first began to draw and illustrate. He was a student at the George Bancroft and Rice Schools, attended classes at the South End’s Children’s Art Centre, and spent time outside the traditional classroom immersed in his neighborhood. The former location of the South End Branch of the Boston Public Library sat down the block from his home at 397 Shawmut Avenue. The branch later moved across the street to the John J. Williams Municipal Building at 400 Shawmut Avenue. Crite was a frequent patron.[3]\n
+    In a 1979 oral history, Crite recalled fondly his time at his family’s first Boston apartment, “Well, I lived there. You see, I lived at 401 Shawmut Ave. and I also practically lived in the library, right next door. So it meant a great deal to me, a part of my formative period, you might say.[4] The South End Branch held an exhibition of Crite’s work in 1950 as part of their Race History Week.[5]",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "U.S. Census Bureau. Fourteenth Census of the United States: 1920-Population.Department of Commerce-Bureau of the Census. National Archives and Record Administration.; Oral history interview with Allan Rohan Crite, 1979 January 16-1980 October 22. Archives of American Art, Smithsonian Institution.; Walshin, Lydia. “Walking Tour.” Glue magazine, September 1997, 17-20."
+      },
+      {
+        "number": 2,
+        "content": "U.S. Census Bureau. Fifteenth Census of the United States: 1930. Department of Commerce-Bureau of the Census. National Archives and Record Administration. "
+      },
+      {
+        "number": 3,
+        "content": "South End Branch.” Boston Public Library. https://www.bpl.org/about-south-end/."
+      },
+      {
+        "number": 4
+        "content": "Oral history interview with Allan Rohan Crite, 1979 January 16-1980 October 22. Archives of American Art, Smithsonian Institution."
+      },
+      {
+        "number": 5
+        "content": "The Guardian. [volume] (Boston, Mass.), 11 Feb. 1950. Chronicling America: Historic American Newspapers. Lib. of Congress. <https://chroniclingamerica.loc.gov/lccn/sn83045863/1950-02-11/ed-1/seq-3/>."
       }
-    ]
-  },
+      }
   {
-    "location_name": "Row 3",
+    "location_name": "2 Dilworth Street",
     "location_number": 3,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
+        "path": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/25/rec/1",
+        "title": "Fruit and Snow: from my window at 2 Dilworth St.",
         "format": "format_placeholder",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/25/rec/1",
         "caption": "Crite, Allan Rohan. Fruit and Snow: From My Window at 2 Dilworth St. January 1940. Watercolor with ink and white highlights over graphite on paper, 38.1 x 28 cm. Boston Athenaeum."
       },
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
+        "path": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/22/rec/23",
+        "title": "Girls Playing on My Street",
         "format": "format_placeholder",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/22/rec/23",
         "caption": "Crite, Allan Rohan. Girls Playing on My Street. August 1940. Watercolor with black ink and white gouache over graphite, 38.1 x 28 cm. Boston Athenaeum."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "In 1925 at the age of fifteen, Allan Rohan Crite moved with his family to 2 Dilworth Street in Lower Roxbury. 
+    The young artist spent key moments of his career inside the apartment that sat at the edge of Carter Playground in what was 
+historically the center of Boston’s Black community following migrations from Beacon Hill, the American South, and the Caribbean.[1] 
+The Boston Redevelopment Authority (BRA) marked Dilworth street as blighted in 1960 and slated the residential block for demolition 
+as part of the South End Urban Renewal Project of 1962. The agency later proposed the cluster of apartment buildings be removed in favor 
+of a new elementary school.[2] According to Byron Rushing, former President of the Museum of African American History and former MA State Representative, 
+the Crite family and their neighbors were eventually displaced when transportation redevelopment authorities demolished 2 
+Dilworth Street in 1971. Allan and his mother moved to a brownstone at 410 Columbus Avenue, and were among the more fortunate families that 
+were able to relocate within the neighborhood. In total, the BRA estimated that a total of 1,517 families were displaced by the South End Urban Renewal Project.[3] ",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "Dash Nelson, Garrett. “Area D9”. Mapping Inequality: Redlining in New Deal America. Digital Scholarship Lab. https://dsl.richmond.edu/panorama/redlining. "
+      }
+      {
+        "number": 2,
+        "content": "Boston Redevelopment Authority. "South End renewal area." Map. Boston: Boston Redevelopment Authority, October 1960. Norman B. Leventhal Map & Education Center, https://collections.leventhalmap.org/search/commonwealth:6t055z60n.; Boston Redevelopment Authority. "South End urban renewal area R-56." Map. Boston: Boston Redevelopment Authority, May 1965. Norman B. Leventhal Map & Education Center, https://collections.leventhalmap.org/search/commonwealth:7h14cz04q. "
+      }
+      {
+        "number": 3,
+        "content:" "We are grateful to Byron Rushing for this information.; Boston Redevelopment Authority. “South End Profile”. Boston Public Library. https://archive.org/details/southendprofile00bost/page/n1/mode/2up. "
       }
     ]
   },
   {
-    "location_name": "Row 4",
+    "location_name": "Children's Art Centre",
     "location_number": 4,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
+        "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/53/full/full/0/default.jpg",
+        "title": "Peter Meets the Men of Cornelius",
         "format": "format_placeholder",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/53/rec/54.",
         "caption": "Crite, Allan Rohan. [Early Drawings of Allan Rohan Crite, ages 10-17]. 1920-1927. Crayon, 31.4 x 45.5 cm. Boston Athenaeum."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Allan Rohan Crite attended free courses in the arts at the Children’s Art Centre on 36 Rutland Street. 
+    Co-directed by Museum of Fine Arts (MFA) curator of prints FitzRoy Carrington, the museum and studio space exposed children 
+    to fine art through MFA loans and coursework.[1] At the Children’s Art Centre, Crite received instruction from artists Charles Woodbury and Elizabeth Perkins, 
+    both of whom believed anyone could be an artist through repetition, observation, and personal experience. Woodbury and Perkins acknowledged Crite’s talent during his years at the Art Centre, 
+    included his drawings in their publication The Art of Seeing: Mental Training through Drawing (1925), and encouraged Crite to continue his work on Biblical Scriptures.[2] Although Crite was a young child during his time at the Centre, 
+    Woodbury’s influence is seen throughout Crite’s trajectory and practice. Both Massachusetts painters had technical backgrounds; Woodbury received a degree in Mechanical Engineering from Massachusetts Institute of Technology (MIT) and Crite studied technical design at 
+    the School of the Museum of Fine Arts before becoming an illustrator for the Charlestown Navy Yard. The two painters also returned to the same environments repeatedly, painting from both observation and memory.[3] Crite became a member of the board of the Children’s Art Centre 
+    in his later adulthood and credited the institution as his first coursework in the arts.[4]",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "United South End Settlements. https://uses.library.northeastern.edu/history/."
+      }
+      {
+        "number": 2,
+        "content": "Crite, Allan Rohan. “Why I Illustrate the Spirituals.” World Horizons: A Magazine for Young People 1 (1938): 44-55."
+      }
+      {
+        "number": 3,
+        "content": "Earth, Sea and Sky: Charles H. Woodbury—Artist and Teacher, 1864-1940. Cambridge, Massachusetts: The MIT Museum, 1988."
+      }
+      {
+        "number": 4,
+        "content": "Diana Seave Greenwald and Christina Michelon, Allan Rohan Crite: Neighborhood Liturgy (Boston: Boston Athenaeum and Isabella Stewart Gardner Museum. Distributed by Princeton University Press, 2025)."
       }
     ]
   },
   {
-    "location_name": "Row 5",
+    "location_name": "English High School",
     "location_number": 5,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
+        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cf95jm991/full/1200,/0/default.jpg",
+        "title": "English High School: Warren Ave. & Dartmouth St. Built 1877, George A. Clough, arch.",
         "format": "format_placeholder",
         "url": "https://ark.digitalcommonwealth.org/ark:/50959/cf95jm98r",
         "caption": "Marr, Thomas E., -1910. \"Boston. Public Latin school. Warren Avenue and Dartmouth Street (now English High School).\" Photograph. [ca. 1905]. Digital Commonwealth."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "From an early age, Allan Rohan Crite (1910-2007) was a frequent patron of the Museum of Fine Arts (MFA). In the 1938 broadside  “Why I Illustrate the Spirituals”, 
+    Crite cited the MFA as having a profound influence on his career.. He recounted visits to the museum with his mother Annamae and the coursework provided through the School of the Museum of Fine Arts, 
+    then known as the Museum School.\n Crite graduated from English High School in 1929, then located on Warren Avenue and Dartmouth Street in Boston’s South End. Throughout high school he attended weekend vocational 
+    classes at the School of Museum of Fine Arts in composition, charcoal drawing, and textile design. Crite went on to attend and graduate from the Museum School on scholarship where he studied industrial design and a traditional 
+    art curriculum, and ultimately merged his Episcopal faith with his artistic practice.[1] He shared, “[...] after seven and one half years of earnest study at the School of the Museum of Fine Arts, I finally felt competent and confident 
+    enough that at last it was possible for me to be able to illustrate the Spirituals with a living vigor, which would help preserve them in all their living beauty."[2]",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "Oral history interview with Allan Rohan Crite, 1979 January 16-1980 October 22. Archives of American Art, Smithsonian Institution.; Diana Seave Greenwald and Christina Michelon, Allan Rohan Crite: Neighborhood Liturgy (Boston: Boston Athenaeum and Isabella Stewart Gardner Museum. Distributed by Princeton University Press, 2025)."
+      }
+      {
+        "number": 2,
+        "content": "Crite, Allan Rohan. “Why I Illustrate the Spirituals.” World Horizons: A Magazine for Young People 1 (1938): 44-55."
       }
     ]
   },
   {
-    "location_name": "Row 6",
+    "location_name": "St. Bartholomew's Church",
     "location_number": 6,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
+        "path": "",
+        "title": "Cambridge, Sunday Morning",
         "format": "format_placeholder",
         "url": "https://bostonathenaeum.org/library-collections/special-collections/paintings-sculpture-online/cambridge-sunday-morning/",
         "caption": "Crite, Allan Rohan. Cambridge, Sunday Morning. 1939. Oil on board, 57.5 x 67.5 cm. Boston Athenaeum."
