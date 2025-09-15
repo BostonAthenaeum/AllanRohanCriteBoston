@@ -250,7 +250,7 @@
     ]
   },
   {
-    "location_name": "Row 8",
+    "location_name": "Isabella Stewart Gardner Museum",
     "location_number": 8,
     "images": [
       {
@@ -307,7 +307,7 @@
         "caption": "Crite, Allan Rohan. The News. 1945. Oil on canvas, 83 x 72 cm. Boston Athenaeum."
       },
       {
-        "path": "ask ian",
+        "path": "ask ian about this",
         "title": "410 Columbus Avenue",
         "format": "format_placeholder",
         "url": "url_placeholder",
@@ -327,36 +327,44 @@
     ]
   },
   {
-    "location_name": "Row 10",
+    "location_name": "Peoples Baptist Church",
     "location_number": 10,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
+        "path": "ask ian about this",
+        "title": "Harriet and Leon",
         "format": "format_placeholder",
         "url": "https://bostonathenaeum.org/library-collections/special-collections/paintings-sculpture-online/harriet-and-leon/",
         "caption": "Crite, Allan Rohan. Harriet and Leon. 1941. Oil on canvas, 91.4 x 66 cm. Boston Athenaeum."
       },
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
+        "path": "ask ian about this",
+        "title": "The News",
         "format": "format_placeholder",
         "url": "https://bostonathenaeum.org/library-collections/special-collections/paintings-sculpture-online/the-news/",
         "caption": "Crite, Allan Rohan. The News. 1945. Oil on canvas, 83 x 72 cm. Boston Athenaeum."
       },
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
+        "path": "ask ian about this",
+        "title": "410 Columbus Avenue",
         "format": "format_placeholder",
         "url": "url_placeholder",
-        "caption": "Crite, Allan Rohan. \u201c410 Columbus Avenue\u201d from An Artist\u2019s Sketchbook of the South End: A Walking Tour about Black People. 1977. Offset color lithograph, 21.7 x 27.9 cm. Boston Athenaeum. UT.9 U9 Cri.a. 1977."
+        "caption": "Crite, Allan Rohan. “410 Columbus Avenue” from An Artist’s Sketchbook of the South End: A Walking Tour about Black People. 1977. Offset color lithograph, 21.7 x 27.9 cm. Boston Athenaeum. UT.9 U9 Cri.a. 1977."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Crite’s Neighborhood Series mostly depicts Boston’s South End and Lower Roxbury neighborhoods. The steeple of Peoples Baptist Church and the recreational fields of the Carter Playground are seen in the distance of Crite’s Harriet and Leon (1941). In The News (1945), the artist shows four Black men (three in plain dress and one in military uniform) reading headlines of President Franklin Delano Roosevelt’s passing on the corner of Columbus Avenue and Northampton Street in front of an altered version of the Columbus AME Zion Church.\n Harriet and Leon and The News depict aspects of social change happening in Crite’s community during his lifetime. The Peoples Baptist Church and Columbus Avenue AME Zion Church represent Black congregations that began in the Beacon Hill neighborhood, where the majority of Black Bostonians lived until the 1890’s. In the early 1900’s, migrations from Beacon Hill, the West Indies, and the American South boomed in the South End and Lower Roxbury. The Black population grew to more than 10,000 people and doubled to over 20,000 by the 1930s.[1] Both the Peoples Baptist Church and Columbus Avenue AME Zion Church owned buildings in the burgeoning neighborhood by the early twentieth century where they witnessed the Boston Redevelopment Authority’s 1962 South End Urban Renewal Project and university expansion disrupt and displace the lives of their community members.[2] The congregations still stand and worship in Lower Roxbury today, a testament to their resilience.",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "Crite, Allan Rohan. Harriet and Leon. 1941. Oil on canvas, 91.4 x 66 cm. Boston Athenaeum. https://bostonathenaeum.org/library-collections/special-collections/paintings-sculpture-online/harriet-and-leon/."
+      },
+      {
+        "number": 2,
+        "content": "Crite, Allan Rohan. The News. 1945. Oil on canvas, 83 x 72 cm. Boston Athenaeum. https://bostonathenaeum.org/library-collections/special-collections/paintings-sculpture-online/the-news/."
+      },
+      {
+        "number": 3,
+        "content": "Crite, Allan Rohan. “410 Columbus Avenue” from An Artist’s Sketchbook of the South End: A Walking Tour about Black People. 1977. Offset color lithograph, 21.7 x 27.9 cm. Boston Athenaeum. UT.9 U9 Cri.a. 1977."
       }
     ]
   },
