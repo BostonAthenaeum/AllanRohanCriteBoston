@@ -17,9 +17,13 @@
         "caption": "Crite, Allan Rohan. [Early drawings of Allan Rohan Crite, ages 10-17]. 1920-1927. Crayon, some with wash, 31.4 x 45.5 cm. Boston Athenaeum."
       }
     ],
-    "description": "Allan Rohan Crite and his parents moved to 401 Shawmut Avenue in Boston’s South End when he was a young child after a brief stint on the same street in Lower Roxbury.[1] The Crite family eventually moved to 2 Dilworth street, in 1925.[2] \n 
-    At 401 Shawmut Avenue, Crite first began to draw and illustrate. He was a student at the George Bancroft and Rice Schools, attended classes at the South End’s Children’s Art Centre, and spent time outside the traditional classroom immersed in his neighborhood. The former location of the South End Branch of the Boston Public Library sat down the block from his home at 397 Shawmut Avenue. The branch later moved across the street to the John J. Williams Municipal Building at 400 Shawmut Avenue. Crite was a frequent patron.[3]\n
-    In a 1979 oral history, Crite recalled fondly his time at his family’s first Boston apartment, “Well, I lived there. You see, I lived at 401 Shawmut Ave. and I also practically lived in the library, right next door. So it meant a great deal to me, a part of my formative period, you might say.[4] The South End Branch held an exhibition of Crite’s work in 1950 as part of their Race History Week.[5]",
+    "description": "Allan Rohan Crite and his parents moved to 401 Shawmut Avenue in Boston’s South End when he was a young child after a brief stint on the same street in Lower Roxbury.[1] 
+    The Crite family eventually moved to 2 Dilworth street, in 1925.[2] \n At 401 Shawmut Avenue, Crite first began to draw and illustrate. 
+    He was a student at the George Bancroft and Rice Schools, attended classes at the South End’s Children’s Art Centre, and spent time outside the traditional classroom 
+    immersed in his neighborhood. The former location of the South End Branch of the Boston Public Library sat down the block from his home at 397 Shawmut Avenue. The branch later moved across 
+    the street to the John J. Williams Municipal Building at 400 Shawmut Avenue. Crite was a frequent patron.[3]\n
+    In a 1979 oral history, Crite recalled fondly his time at his family’s first Boston apartment, “Well, I lived there. You see, I lived at 401 Shawmut Ave. and I also 
+    practically lived in the library, right next door. So it meant a great deal to me, a part of my formative period, you might say.[4] The South End Branch held an exhibition of Crite’s work in 1950 as part of their Race History Week.[5]",
     "footnotes": [
       {
         "number": 1,
@@ -201,25 +205,60 @@ were able to relocate within the neighborhood. In total, the BRA estimated that 
     "location_number": 6,
     "images": [
       {
-        "path": "",
+        "path": "ask ian about this",
         "title": "Cambridge, Sunday Morning",
         "format": "format_placeholder",
         "url": "https://bostonathenaeum.org/library-collections/special-collections/paintings-sculpture-online/cambridge-sunday-morning/",
         "caption": "Crite, Allan Rohan. Cambridge, Sunday Morning. 1939. Oil on board, 57.5 x 67.5 cm. Boston Athenaeum."
       },
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
+        "path": "ask ian about this",
+        "title": "Allan Crite Serving as Lay Reader at St. Bartholomew's Church",
         "format": "format_placeholder",
         "url": "url_placeholder",
-        "caption": "Allan Crite Serving as Lay Reader at St. Bartholomew\u2019s Church. December 1944. Photograph. Courtesy of The Archives of the Episcopal Church."
+        "caption": "Allan Crite Serving as Lay Reader at St. Bartholomew’s Church. December 1944. Photograph. Courtesy of The Archives of the Episcopal Church."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Allan Rohan Crite (1910-2007) grew up attending church services in the historically Black neighborhood known as the Port in Cambridge, Massachusetts. 
+    His mother, Annamae, was a devout Episcopalian who joined St. Bartholomew’s upon moving from Plainfield, New Jersey to Boston in 1910. St. Bartholomew’s, originally founded with a 
+    Black congregation and clergy composed primarily of Caribbean immigrants, established itself as an diocesan mission with the Episcopal Diocese of Massachusetts the same year.[1]\n 
+    Crite attended and supported a number of Episcopal churches in the greater Boston area throughout his lifetime, becoming an active member of St. Stephen’s Episcopal Church in the South End later in his adulthood.[2]
+    At St. Bartholomew’s and in the Port neighborhood more broadly, the young Allan Crite was ensconced by a Black spiritual world.[3] His painting Cambridge, Sunday Morning (1939) depicts a connected community of Black 
+    churchgoers on Columbia Street just north of Austin Street, or what is now Bishop Allen Drive. The steeple of Union Baptist Church, which maintained a historically Black congregation, can be seen in the distance.[4]\n
+    Crite’s religious works, notably his booklet Is It Nothing to You? (1948) published by the Episcopal Diocese of Massachusetts, features some of the earliest depictions of a Black Jesus in the United States.[5] In a 1978 oral 
+    history with the artist, when he was questioned about his motivations for depicting Black liturgical figures, he replied succinctly, “That's the interpretation that I used. St. Bartholomew's Church is a Black church, so I had that.[6] 
+    Beyond inspiration, St. Bartholomew’s rector and vestry, along with the South End’s St. Augustine and St. Martin’s Episcopal Church, directly participated in Crite’s art career. They loaned two paintings, The Baptismal Font (1940) and 
+    The Rector’s Greeting (1938), to the Museum of African American History’s 1982 show, The Lost and Found Paintings of Allan Rohan Crite.[7] In Cambridge, just as in the South End and Lower Roxbury, Crite observed the community surrounding him with reverence, 
+portraying the divine and ordinary as one.",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "Important Historical Dates”. St. Bartholomew’s Parish Office. 2025."
+      }
+      {
+        "number": 2,
+        "content": "Allan Crite, 1910-2007.” The Church Awakens: African Americans and the Struggle for Justice. https://episcopalarchives.org/church-awakens/exhibits/show/leadership/lay/crite."
+      }
+      {
+        "number": 3,
+        "content": "Clark, Edward, Annamae Palmer Crite, and Allan Rohan Crite. “Annamae Palmer Crite and Allan Rohan Crite: Mother and Artist Son: An Interview.” MELUS 6, no. 4 (1979): 67–78. https://doi.org/10.2307/467058."
+      }
+      {
+        "number": 4,
+        "content": "Thank you to Charles Sullivan, Executive Director of the Cambridge Historical Commission, for identifying the location shown in Cambridge, Sunday Morning (1939).; Crite, Allan Rohan. Cambridge, Sunday Morning. 1934. Boston Athenaeum. https://bostonathenaeum.org/library-collections/special-collections/paintings-sculpture-online/cambridge-sunday-morning/."
+      }
+      {
+        "number": 5,
+        "content": "Is It Nothing to You?. Boston, Mass. : Dept. of Social Service, Episcopal Diocese of Massachusetts, 1948. https://archive.org/details/isitnothingtoyou00crit/page/n3/mode/2up."
+      }
+      {
+        "number": 6,
+        "content": "Oral history interview with Allan Rohan Crite, 1979 January 16-1980 October 22. Archives of American Art, Smithsonian Institution."
+      }
+      {
+        "number": 7,
+        "content": "Rushing, Byron. “The Lost and Found Paintings of Allan Rohan Crite: [exhibition catalog with comments by Allan Rohan Crite]” (1982). Clark Collection Publications. 1.
+https://dc.suffolk.edu/afam/1."
       }
     ]
   },
