@@ -428,44 +428,26 @@ https://dc.suffolk.edu/afam/1.; Crite, Allan Rohan. The Last of Dillon Street. W
         "caption": "Crite, Allan Rohan. In the Choir Robing Room. January 1939. Graphite, 42.4 x 30.7 cm. Boston Athenaeum."
       },
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
+        "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/23/full/full/0/default.jpg",
         "title": "title_placeholder",
         "format": "format_placeholder",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/23/rec/1",
         "caption": "Crite, Allan Rohan. An Incident at Mass. 1940. Watercolor with black ink and white highlights over graphite, 38.1 x 28 cm. Boston Athenaeum."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Allan Rohan Crite (1910-2007) depicted Lenox Street and its surroundings in much of his work while living nearby at the now demolished 2 Dilworth Street.\n In his art, Crite blended memory, documentary, and narrative elements, often reworking or reimagining scenes from his everyday encounters. Crite’s watercolor Just Greetings (1940) is one example of a painting that includes his description of the work’s location. On the back of the paper, he wrote, “Camden St. Near Shawmut Ave.”[1] The watercolor shows the block adjacent to the then recently opened Lenox Street Projects, the first public housing project in the city intentionally built for African Americans, and at the future site of the Camden Street Apartments.[2] Crite also created several works set at the historically Black Episcopal Church of Saint Augustine and Saint Martin nearby at 29-33 Lenox Street, including In the Choir Robing Room (1939) and An Incident at Mass (1940).",
     "footnotes": [
       {
         "number": 1,
-        "content": "Dash Nelson, Garrett. “Area D9”. Mapping Inequality: Redlining in New Deal America. Digital Scholarship Lab. https://dsl.richmond.edu/panorama/redlining.;  Rushing, Byron. “The Lost and Found Paintings of Allan Rohan Crite: [exhibition catalog with comments by Allan Rohan Crite]” (1982). Clark Collection Publications. 1.
-https://dc.suffolk.edu/afam/1."
-      }
+        "content": "Crite, Allan Rohan. Just Greetings. 1940. Wash and black ink over graphite, 38.2 x 28 cm Boston Athenaeum. https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/24/."
+      },
       {
         "number": 2,
-        "content": "Crite, Allan Rohan. Just Greetings. 1940. Wash and black ink over graphite, 38.2 x 28 cm Boston Athenaeum. https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/24/."
-      }
-      {
-        "number": 3,
         "content": "Vale, Lawrence J. From the Puritans to the Projects: Public Housing and Public Neighbors. Harvard University Press, 2000.; Vale, Lawrence J. Reclaiming Public Housing: A Half Century of Struggle in Three Public Neighborhoods. Harvard University Press, 2002.; Crite, Allan Rohan. The Last of Dillon Street. Watercolor and black ink, 38.2 x 28 cm. Boston Athenaeum. https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/26/rec/27."
-      }
-      {
-        "number": 4,
-        "content": "Rushing, Byron. “The Lost and Found Paintings of Allan Rohan Crite: [exhibition catalog with comments by Allan Rohan Crite]” (1982). Clark Collection Publications. 1.
-https://dc.suffolk.edu/afam/1.; Crite, Allan Rohan. In the Choir Robing Room. January 1939. Graphite, 42.4 x 30.7 cm. Boston Athenaeum. https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/10/rec/12."
-      }
-      {
-        "number": 5,
-        "content": "Hall, Winifred Irish. “Winnie”. Irish poses with Russell and Hyacinth in front of the Lenox Street Projects. Photograph. [1935-1945]. Northeastern University Library. http://hdl.handle.net/2047/D20197203.; We are thankful to oral historian and photographer Lolita Parker Jr. for furnishing this source and sharing her knowledge on Lower Roxbury. Thank you to the estate of Winifred Irish Hall for permission to use this photograph."
-      }
-      {
-        "number" 6,
-        "content": "“Urban Renewal Quick Facts.” Boston Urban Renewal. https://www.bostonplans.org/getattachment/76875a6c-f63e-4b45-962a-4629b8a92cb0.; Cohen, Lizabeth. Saving America’s Cities: Ed Logue and the Struggle to Renew Urban America in the Suburban Age. New York: Picador, 2020."
-    ]
+content": "“Urban Renewal Quick Facts.” Boston Urban Renewal. https://www.bostonplans.org/getattachment/76875a6c-f63e-4b45-962a-4629b8a92cb0.; Cohen, Lizabeth. Saving America’s Cities: Ed Logue and the Struggle to Renew Urban America in the Suburban Age. New York: Picador, 2020."
   },
   {
-    "location_name": "Row 13",
+    "location_name": "Madison Park",
     "location_number": 13,
     "images": [
       {
@@ -494,7 +476,23 @@ https://dc.suffolk.edu/afam/1.; Crite, Allan Rohan. In the Choir Robing Room. Ja
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "Crite, Allan Rohan. A course in music appreciation. 1940. Boston Athenaeum. https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/19/.; Rushing, Byron. “The Lost and Found Paintings of Allan Rohan Crite: [exhibition catalog with comments by Allan Rohan Crite]” (1982). Clark Collection Publications. 1. https://dc.suffolk.edu/afam/1."
+      },
+      {
+        "number": 2,
+        "content": "Crite, Allan Rohan. A Maternity Club. 1978. Boston Athenaeum. https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/28/rec/13.; Hall, Winifred Irish. Annie holds her baby in Madison Park. [1935-1945]. Photography by Winifred Irish Hall, Lower Roxbury Black History Project, Northeastern University Archives and Special Collections. http://hdl.handle.net/2047/D20197237."
+      }
+      {
+        "number": 3,
+        "content": "Boston Redevelopment Authority. “BRA Annual Report-1966: Campus High School”. Boston Public Library. https://archive.org/details/braannualreport100bost."
+      },
+      {
+        "number": 4,
+        "content": "Cohen, Lizabeth. Saving America’s Cities: Ed Logue and the Struggle to Renew Urban America in the Suburban Age. New York: Picador, 2020. 225."
+      },
+      {
+        "number": 5,
+        "content": "Boston Redevelopment Authority. “Campus High School Urban Renewal Area Mass. r-129 : Proposed Land-Use.” Map. April 1972. Norman B. Leventhal Map & Education Center. https://collections.leventhalmap.org/search/commonwealth:qz20w877m.; See also, Crockett, Karilyn. People Before Highways: Boston Activists, Urban Planners, and a New Movement for City Making. Amherst: University of Massachusetts Press, 2018.; “Place Names, Boundaries, and Real-World Impacts: The Story of Upper Roxbury.” Boston University Initiative on Cities. https://www.bu.edu/ioc/2022/01/31/place-names-boundaries-and-real-world-impacts-the-story-of-upper-roxbury/."
       }
     ]
   },
