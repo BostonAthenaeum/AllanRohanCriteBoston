@@ -263,23 +263,33 @@ https://dc.suffolk.edu/afam/1."
     ]
   },
   {
-    "location_name": "Row 7",
+    "location_name": "Museum of Fine Arts Boston",
     "location_number": 7,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
+        "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/127/full/full/0/default.jpg",
+        "title": "Personal sketchbook of Allan Rohan Crite",
         "format": "format_placeholder",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/127/rec/1",
         "caption": "Crite, Allan Rohan. [Personal sketchbook of Allan Rohan Crite] [graphic]. [ca. 1932]. Ill. (drawings, pen and ink, watercolor), 20 cm. Boston Athenaeum."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Allan Rohan Crite was a frequent patron of the Museum of Fine Arts from as early as he could remember. 
+    The young painter cited the Boston institution for its profound influence on his career in his 1938 broadside interview, “Why I Illustrate the Spirituals”. 
+    He recounted visits to the museum with his mother Annamae and the coursework provided through the School of the Museum of Fine Arts, then known as the Museum School.\n 
+    Crite graduated from English High School in 1929, a boy’s school among the first public schools in the United States, then located on Warren Avenue and Dartmouth Street in Boston’s South End.
+    His childhood home at 2 Dilworth Street sat directly between English High School and the Museum School. Throughout high school he attended weekend vocational classes at the School of Museum of Fine Arts 
+    in composition, charcoal drawing, and textile design. Crite went on to attend and graduate from the Museum School on scholarship where he studied industrial design and a traditional art curriculum, and ultimately 
+    merged his Episcopal faith with his artistic practice.[1] He shared, “[...] after seven-and-one-half years of earnest study at the School of the Museum of Fine Arts, I finally felt competent and confident enough that 
+    at last it was possible for me to be able to illustrate the Spirituals with a living vigor, which would help preserve them in all their living beauty.”[2]",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "Oral history interview with Allan Rohan Crite, 1979 January 16-1980 October 22. Archives of American Art, Smithsonian Institution.; Diana Seave Greenwald and Christina Michelon, Allan Rohan Crite: Neighborhood Liturgy (Boston: Boston Athenaeum and Isabella Stewart Gardner Museum. Distributed by Princeton University Press, 2025)."
       }
+      {
+        "number": 2,
+        "content": "Crite, Allan Rohan. “Why I Illustrate the Spirituals.” World Horizons: A Magazine for Young People 1 (1938): 44-55."
     ]
   },
   {
@@ -287,35 +297,52 @@ https://dc.suffolk.edu/afam/1."
     "location_number": 8,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
+        "path": "ask ian about this",
+        "title": "Late Afternoon",
         "format": "format_placeholder",
         "url": "https://bostonathenaeum.org/library-collections/special-collections/paintings-sculpture-online/late-afternoon/.",
         "caption": "Crite, Allan Rohan. Late Afternoon. 1934. Oil on canvas, 82 x 61.5 cm. Boston Athenaeum."
       },
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
+        "path": "ask ian about this",
+        "title": "Street Scene",
         "format": "format_placeholder",
         "url": "https://bostonathenaeum.org/library-collections/special-collections/paintings-sculpture-online/street-scene/.",
         "caption": "Crite, Allan Rohan. Street Scene. 1934. Oil on canvas, 60.5 x 45.5 cm. Boston Athenaeum."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Allan Rohan Crite (1910-2007) visited the Isabella Stewart Gardner Museum, with his mother Annamae through classes at the Children’s Art Centre in the South End. He often cited fond memories of his time exploring “the palace” and 
+  its collections as it was a short walk from his home at 2 Dilworth Street.[1]\n In December 1933, the Gardner became the New England headquarters for the Federal Public Works Art Project, 
+  where Crite received his stipend as a selected artist beginning in 1934.[2] he program aimed to assist unemployed artists during the Great Depression and ended in June of the same year. 
+  The opportunity allowed Crite to produce a number of oil paintings, including Late Afternoon (1934) and Street Scene (1934).[3] He maintained a lifelong relationship to the museum, drawing references 
+  from its collections for his paintings and publications.[4]",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "Crite, Allan Rohan. "Mrs. John Gardners Court from Memory." Print. [ca. 1936–2007]. Digital Commonwealth, https://ark.digitalcommonwealth.org/ark:/50959/c247n700m.; Oral history interview with Allan Rohan Crite, 1979 January 16-1980 October 22. Archives of American Art, Smithsonian Institution."
+      }
+      {
+        "number": 2,
+        "content": "The Tenth Annual Report: 1934. Isabella Stewart Gardner Museum."
+      }
+      {
+        "number": 3,
+        "content": "Crite, Allan Rohan. Late Afternoon. 1934. Boston Athenaeum. https://bostonathenaeum.org/library-collections/special-collections/paintings-sculpture-online/late-afternoon/.; Crite, Allan Rohan. Street Scene. 1934. Boston Athenaeum. 
+https://bostonathenaeum.org/library-collections/special-collections/paintings-sculpture-online/street-scene/."
+      }
+      {
+        "number": 4,
+        "content": "Seave Greenwald, Diana. “Allan Rohan Crite and Fenway Court.” Isabella Stewart Gardner Museum. https://www.gardnermuseum.org/blog/allan-rohan-crite-and-fenway-court."
       }
     ]
   },
   {
-    "location_name": "Row 9",
+    "location_name": "Columbus Avenue AME Zion Church",
     "location_number": 9,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
+        "path": "ask Ian about this",
+        "title": "Harriet and Leon",
         "format": "format_placeholder",
         "url": "https://bostonathenaeum.org/library-collections/special-collections/paintings-sculpture-online/harriet-and-leon/",
         "caption": "Crite, Allan Rohan. Harriet and Leon. 1941. Oil on canvas, 91.4 x 66 cm. Boston Athenaeum."
@@ -328,19 +355,32 @@ https://dc.suffolk.edu/afam/1."
         "caption": "Crite, Allan Rohan. The News. 1945. Oil on canvas, 83 x 72 cm. Boston Athenaeum."
       },
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
+        "path": "ask ian",
+        "title": "410 Columbus Avenue",
         "format": "format_placeholder",
         "url": "url_placeholder",
-        "caption": "Crite, Allan Rohan. \u201c410 Columbus Avenue\u201d from An Artist\u2019s Sketchbook of the South End: A Walking Tour about Black People. 1977. Offset color lithograph, 21.7 x 27.9 cm. Boston Athenaeum. UT.9 U9 Cri.a. 1977."
+        "caption": "Crite, Allan Rohan. “410 Columbus Avenue” from An Artist’s Sketchbook of the South End: A Walking Tour about Black People. 1977. Offset color lithograph, 21.7 x 27.9 cm. Boston Athenaeum. UT.9 U9 Cri.a. 1977."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Crite’s Neighborhood Series is lauded for its depictions of the South End and Lower Roxbury, 
+    containing references to the social change experienced in his community throughout his lifetime. 
+    The steeple of Peoples Baptist Church and the recreational fields of the Carter Playground are seen in the distance of Crite’s Harriet and Leon (1941). 
+    In The News (1945), the artist shows four Black men (three in plain dress and one in military uniform) reading headlines of President Franklin Delano Roosevelt’s 
+    passing on the corner of Columbus Avenue and Northampton Street in front of an altered version of the Columbus AME Zion Church.\n 
+    While the scenes in Harriet and Leon and The News are relatively quiet, they embody over a century of social change. According to historian Thomas H. O’Connor, 
+    the Black population in Boston maintained a largely self-contained community of approximately 1,800 to 2,000 people on the northwestern slope of Beacon Hill until the late 1890’s. 
+    The Peoples Baptist Church and Columbus Avenue AME Zion Church represent Black congregations that began in the Beacon Hill neighborhood, but were forced to relocate to Lower Roxbury as they traced the moving and growing Black population southwest. 
+    In the 1900’s, migrations from Beacon Hill, the West Indies, and the American South boomed in the South End and Lower Roxbury. The Black population grew to more than 10,000 people and doubled to over 20,000 by the 1930’s.[1] Both the Peoples Baptist Church 
+    and Columbus Avenue AME Zion Church owned buildings in the burgeoning neighborhood by the early twentieth century where they witnessed the Boston Redevelopment Authority’s 1962 South End Urban Renewal Project and university expansion disrupt and displace 
+    the lives of their community members.[2] The congregations still stand and worship in Lower Roxbury today, a testament to their resilience.",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "O’Connor, Thomas H. Building a New Boston: Politics and Urban Renewal, 1950-1970. Boston: Northeastern University Press, 1995."
       }
+      {
+        "number": 2,
+        "content": "Columbus Avenue AME Zion Church.https://columbusavenueamezion.org/Our-History.; “Peoples Baptist Church of Boston in Boston, MA.” Peoples Baptist Church of Boston in Boston, MA. https://www.pbcboston.org/about/.; Cohen, Lizabeth. Saving America’s Cities: Ed Logue and the Struggle to Renew Urban America in the Suburban Age. New York: Picador, 2020."
     ]
   },
   {
