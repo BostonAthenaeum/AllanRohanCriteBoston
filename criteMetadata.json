@@ -417,7 +417,7 @@ https://dc.suffolk.edu/afam/1.; Crite, Allan Rohan. The Last of Dillon Street. W
     ]
   },
   {
-    "location_name": "Saint Augustine and Saint Martin",
+    "location_name": "Church of St. Augustine and St. Martin",
     "location_number": 12,
     "images": [
       {
@@ -647,11 +647,11 @@ Crite, Allan Rohan. 7 a.m. Car. 1943. Boston Athenaeum. https://cdm.bostonathena
     "location_number": 18,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
+        "path": "g needs to grab this information",
         "title": "title_placeholder",
         "format": "format_placeholder",
         "url": "url_placeholder",
-        "caption": "Crite, Allan Rohan. \u201c410 Columbus Avenue\u201d from An Artist\u2019s Sketchbook of the South End: A Walking Tour about Black People. 1977. Offset color lithograph, 21.7 x 27.9 cm. Boston Athenaeum. UT.9 U9 Cri.a. 1977."
+        "caption": "g needs to grab this information"
       }
     ],
     "description": "Allan Rohan Crite (1910-2007) and his mother Annamae moved to 410 Columbus Avenue in 1971 after their home at 2 Dilworth Street was marked as blighted and torn down as part of the BRA’s South End Urban Renewal Project. The extra space allowed Crite to move his offset lithography press from St. John’s Workshop, a Parish hall for St. John’s Episcopal Church on 1251 Tremont Street to the brownstone on Columbus.[1] The house at 410 Columbus Avenue became Crite’s studio space, and eventually, a house museum. After the passing of his mother Annamae in 1977, Crite joined the MIT Community Fellows program and announced his intentions for the home to be opened as a cultural space in 1983. The same year, South End organizer Mel King established his political alliance known as the Rainbow Coalition, which met on the first floor of Crite’s home.[2] With the help of his dedicated wife, Jacquelyn Cleveland Cox Crite, the two operated the house museum until increased South End gentrification and rising property values made living and operating out of the bow-fronted house impossible.[3]\n Crite Park opened in 1985 only steps away from Crite’s former home on Columbus Avenue. Friends of Crite Park fundraised for the plaza, which was restored in 2025 and serves as a reflection space dedicated to Allan Rohan Crite and his legacy in the community.",
@@ -671,27 +671,31 @@ Crite, Allan Rohan. 7 a.m. Car. 1943. Boston Athenaeum. https://cdm.bostonathena
     ]
   },
   {
-    "location_name": "Row 19",
+    "location_name": "University of Massachusetts Boston",
     "location_number": 19,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
+        "path": "needs github repository endpoint",
         "title": "title_placeholder",
         "format": "format_placeholder",
         "url": "https://catalog.bostonathenaeum.org/vwebv/holdingsInfo?searchId=479052&recCount=50&recPointer=4&bibId=381211",
         "caption": "Crite, Allan Rohan. Combat Zone. 1977-1978. Offset lithographs, color and b&w, 21.7 x 28 cm. or 21.7 x 35.6 cm. + 1 booklet. Boston Athenaeum."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Allan Rohan Crite (1910-2007) became explicitly political and outspoken on the democratization of artwork and censorship in the late 1970s through the 1990s, after the death of his mother Annamae and at the height of the culture wars on sexuality, abortion, and HIV/AIDS. His booklet Combat Zone (1977-1978) depicts and describes his attitudes towards the commodification and alienation of intimacy seen in the sex district in downtown Boston after the Boston Redevelopment Authority zoned and contained the area in 1974.[1] In September 1990, he delivered his lecture “Art is Public Business” in University of Massachusetts Boston’s Snowden Hall on the topics of nudity and artistic suppression. He shared, “We do a lot of offensive things in the body, but in a real sense, it is the only thing we have to work with, at least in this phase of life as we know it.” The University’s Harbor Gallery held a concurrent exhibition of Crite’s work, containing a nude triptych titled Fig Leaves, where the Chancellor was scheduled to attend the Convocation Day reception. Reported controversy surrounding the obscenity and morality of the piece led to the forced relocation of the reception.[2]",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "Crite, Allan Rohan. Combat Zone (1977-1978). Boston Athenaeum, Prints and Photographs Department, UT.9 U9 Cri.a. 1978.c (no. 2). https://catalog.bostonathenaeum.org/vwebv/holdingsInfo?searchId=479052&recCount=50&recPointer=4&bibId=381211.",
+      },
+      {
+        "number": 2,
+        "content": "Sifantus, Jean-Do. “Harbor Gallery Not Immune to National Controversy.” The Mass Media. October 16, 1990.; We are grateful to Kathleen Bitetti for this information.",
       }
     ]
   },
   {
-    "location_name": "Row 20",
+    "location_name": "Crite Park",
     "location_number": 20,
     "images": [
       {
@@ -702,31 +706,43 @@ Crite, Allan Rohan. 7 a.m. Car. 1943. Boston Athenaeum. https://cdm.bostonathena
         "caption": "Crite, Allan Rohan. \u201c410 Columbus Avenue\u201d from An Artist\u2019s Sketchbook of the South End: A Walking Tour about Black People. 1977. Offset color lithograph, 21.7 x 27.9 cm. Boston Athenaeum. UT.9 U9 Cri.a. 1977."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Allan Rohan Crite and his mother Annamae moved to 410 Columbus Avenue in 1971 after their home at 2 Dilworth Street was marked as blighted and torn down as part of the South End Urban Renewal Project and related right-of-way expansions.[1] The extra space allowed Crite to move his offset lithography press from St. John’s Workshop, the Parish hall for St. John’s Episcopal Church on 1251 Tremont Street to the brownstone on Columbus.[2] The house at 410 Columbus Avenue became Crite’s studio space, and eventually, a house museum. After the passing of mother Annamae in 1977, Crite joined the MIT Community Fellows program and announced his intentions for the home to be opened as a cultural space in 1983. The same year, South End organizer Mel King established his political alliance known as the Rainbow Coalition, which met on the first floor of Crite’s home.[3] With the help of his dedicated wife, Jacquelyn Cleveland Cox Crite, the two operated the house museum until increased South End gentrification and rising property values made living and operating out of the bow-fronted house impossible.[4]\n Crite Park opened in 1985 only steps away from Crite’s former home on Columbus Avenue. Friends of Crite Park fundraised for the plaza, which was restored in 2025 and serves as a reflection space dedicated to Allan Rohan Crite and his legacy in the community.",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "Boston Redevelopment Authority. “Illustrative Site Plan: South End Urban Renewal Area, Massachusetts R-56.” Map. Circa 1969. Norman B. Leventhal Map & Education Center. https://collections.leventhalmap.org/search/commonwealth:fn109f178.; Boston Redevelopment Authority. “South End Urban Renewal Area R-56 : Proposed Rights-of-Way.” Map. May 1965. Norman B. Leventhal Map & Education Center. https://collections.leventhalmap.org/search/commonwealth:7h14cz12d.",
+      },
+      {
+        "number": 2,
+        "content": "St. John St. James Church, Roxbury. St John St James Church Roxbury - Articles, February 16, 2020. http://stjohnstjamesroxbury.randombasket.com/article2020-02-16a.asp.",
+      },
+      {
+        "number": 3,
+        "content": "We are grateful to Kathleen Bitetti for this information.",
+      },
+      {
+        "number": 4,
+        "content": "Diana Seave Greenwald and Christina Michelon, Allan Rohan Crite: Neighborhood Liturgy (Boston: Boston Athenaeum and Isabella Stewart Gardner Museum. Distributed by Princeton University Press, 2025).",
       }
     ]
   },
   {
-    "location_name": "Row 21",
+    "location_name": "Boston Athenaeum",
     "location_number": 21,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
+        "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/55/full/full/0/default.jpg",
+        "title": "Old South Church from the Old Granary Burial Ground",
+        "format": "g to check catalog spelling",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/55/rec/2",
         "caption": "Crite, Allan Rohan. Old South Church [i.e. Park Street Church] from the Old Granary Buryial [sic] Ground. 1941. Watercolor, gouache, ink ; sheet 43 x 36 cm."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Allan Rohan Crite (1910-2007) maintained a close relationship with the Boston Athenaeum throughout his career. Beginning in 1948, Crite was featured in numerous solo exhibitions at the Athenaeum. He corresponded often with former director Walter Muir Whitehill, who helped publish Crite’s The Cultural Foundations of America (1968) through the Athenaeum. The publication and accompanying exhibition retold a history of the United States that focused on the interconnectedness of colonialism, diasporas, and struggles for liberation. In 1971, Crite gifted sixteen oil paintings, thirty-nine watercolors, and fifteen ink drawings to the Boston Athenaeum ahead of his housing search and move the same month. The South End Urban Renewal Project plan and subsequent transportation redevelopment plans slated Crite’s childhood home at 2 Dilworth Street for destruction, forcing him and his mother to relocate to a brownstone at 410 Columbus Avenue.",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "Diana Seave Greenwald and Christina Michelon, Allan Rohan Crite: Neighborhood Liturgy (Boston: Boston Athenaeum and Isabella Stewart Gardner Museum. Distributed by Princeton University Press, 2025)."
       }
     ]
   }
