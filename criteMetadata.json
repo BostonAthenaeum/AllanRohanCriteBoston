@@ -124,10 +124,10 @@
     "images": [
       {
         "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/53/full/full/0/default.jpg",
-        "title": "Peter Meets the Men of Cornelius",
+        "title": "Peter Meets the Men of Cornelius (Acts 10.21)",
         "format": "format_placeholder",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/53/rec/54.",
-        "caption": "Crite, Allan Rohan. [Early Drawings of Allan Rohan Crite, ages 10-17]. 1920-1927. Crayon, 31.4 x 45.5 cm. Boston Athenaeum."
+        "caption": "Crite, Allan Rohan. Peter Meets the Men of Cornelius (Acts 10.21). 1920-1927. Crayon, 30.4 x 45.5 cm. Boston Athenaeum."
       }
     ],
     "description": "Allan Rohan Crite attended free courses in the arts at the Children’s Art Centre on 36 Rutland Street. Co-directed by Museum of Fine Arts (MFA) curator of prints FitzRoy Carrington, the museum and studio space exposed children to fine art through MFA loans and coursework.[1] At the Children’s Art Centre, Crite received instruction from artists Charles Woodbury and Elizabeth Perkins, both of whom believed anyone could be an artist through repetition, observation, and personal experience. Woodbury and Perkins acknowledged Crite’s talent during his years at the Art Centre, included his drawings in their publication The Art of Seeing: Mental Training through Drawing (1925), and encouraged Crite to continue his work on Biblical Scriptures.[2] Although Crite was a young child during his time at the Centre, Woodbury’s influence is seen throughout Crite’s trajectory and practice. Both Massachusetts painters had technical backgrounds; Woodbury received a degree in Mechanical Engineering from Massachusetts Institute of Technology (MIT) and Crite studied technical design at the School of the Museum of Fine Arts before becoming an illustrator for the Charlestown Navy Yard. The two painters also returned to the same environments repeatedly, painting from both observation and memory.[3] Crite became a member of the board of the Children’s Art Centre in his later adulthood and credited the institution as his first coursework in the arts.[4]",
@@ -234,7 +234,7 @@
         "title": "Personal sketchbook of Allan Rohan Crite",
         "format": "format_placeholder",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/127/rec/1",
-        "caption": "Crite, Allan Rohan. [Personal sketchbook of Allan Rohan Crite] [graphic]. [ca. 1932]. Ill. (drawings, pen and ink, watercolor), 20 cm. Boston Athenaeum."
+        "caption": "Crite, Allan Rohan. Mary from the personal sketchbook of Allan Rohan Crite, 1932. Pencil on paper, 12.5 x 19.4 cm. Boston Athenaeum."
       }
     ],
     "description": "Allan Rohan Crite was a frequent patron of the Museum of Fine Arts from as early as he could remember. The young painter cited the Boston institution for its profound influence on his career in his 1938 broadside interview, “Why I Illustrate the Spirituals”. He recounted visits to the museum with his mother Annamae and the coursework provided through the School of the Museum of Fine Arts, then known as the Museum School.\n Crite graduated from English High School in 1929, a boy’s school among the first public schools in the United States, then located on Warren Avenue and Dartmouth Street in Boston’s South End.His childhood home at 2 Dilworth Street sat directly between English High School and the Museum School. Throughout high school he attended weekend vocational classes at the School of Museum of Fine Arts in composition, charcoal drawing, and textile design. Crite went on to attend and graduate from the Museum School on scholarship where he studied industrial design and a traditional art curriculum, and ultimately merged his Episcopal faith with his artistic practice.[1] He shared, “[...] after seven-and-one-half years of earnest study at the School of the Museum of Fine Arts, I finally felt competent and confident enough that at last it was possible for me to be able to illustrate the Spirituals with a living vigor, which would help preserve them in all their living beauty.”[2]",
@@ -615,27 +615,35 @@ Crite, Allan Rohan. 7 a.m. Car. 1943. Boston Athenaeum. https://cdm.bostonathena
     ]
   },
   {
-    "location_name": "Row 17",
+    "location_name": "St. Stephen's Episcopal Church",
     "location_number": 17,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
-        "url": "url_placeholder",
-        "caption": "Crite, Allan Rohan. \u201c410 Columbus Avenue\u201d from An Artist\u2019s Sketchbook of the South End: A Walking Tour about Black People. 1977. Offset color lithograph, 21.7 x 27.9 cm. Boston Athenaeum. UT.9 U9 Cri.a. 1977."
+        "path": "ask ian",
+        "title": "ask ian",
+        "format": "ask ian",
+        "url": "ask ian",
+        "caption": "ask ian"
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Allan Rohan Crite (1910-2007) began attending services at St. Stephen’s Episcopal Church later in his adult life. His mother, Annamae Crite, was a devout Episcopalian whom young Allan followed to St. Bartholomew’s Episcopal Church of Cambridge, MA in his teen years.[1] St. Stephen’s, located at 419 Shawmut Avenue, served as a multicultural hub for faith and connection within the South End. The church opened its doors to movement-based organizations such as Inquilinos Boricuas en Acción, a South End Puerto Rican activist group that resisted the Boston Redevelopment Authority’s displacement of community members in their neighborhood, and hosted community events for residents.[2] In a 1997 interview with the South End’s Glue magazine, Crite shared that he attended St. Stephen’s because he enjoyed attending services held in English and Spanish. He used his offset lithography press to create weekly church bulletins, sharing the updates and news of the politically-engaged congregation.[3]",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "Oral history interview with Allan Rohan Crite, 1979 January 16-1980 October 22. Archives of American Art, Smithsonian Institution.",
+      },
+      {
+        "number": 2,
+        "content": " Inquilinos Boricuas en Acción. IBA Boston. https://ibaboston.org/about/who-we-are.; “The History of IBA's Villa Victoria.” Posted January 31, 2012. IBA - Inquilinos Boricuas en Acción. https://www.youtube.com/@IBAboston. https://www.youtube.com/watch?v=YVZmwHHY9ko.",
+      },
+      {
+        "number": 3,
+        "content": "Walshin, Lydia. “Walking Tour.” Glue magazine, September 1997, 17-20.",
       }
     ]
   },
   {
-    "location_name": "Row 18",
+    "location_name": "Crite House Museum",
     "location_number": 18,
     "images": [
       {
@@ -646,11 +654,19 @@ Crite, Allan Rohan. 7 a.m. Car. 1943. Boston Athenaeum. https://cdm.bostonathena
         "caption": "Crite, Allan Rohan. \u201c410 Columbus Avenue\u201d from An Artist\u2019s Sketchbook of the South End: A Walking Tour about Black People. 1977. Offset color lithograph, 21.7 x 27.9 cm. Boston Athenaeum. UT.9 U9 Cri.a. 1977."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Allan Rohan Crite (1910-2007) and his mother Annamae moved to 410 Columbus Avenue in 1971 after their home at 2 Dilworth Street was marked as blighted and torn down as part of the BRA’s South End Urban Renewal Project. The extra space allowed Crite to move his offset lithography press from St. John’s Workshop, a Parish hall for St. John’s Episcopal Church on 1251 Tremont Street to the brownstone on Columbus.[1] The house at 410 Columbus Avenue became Crite’s studio space, and eventually, a house museum. After the passing of his mother Annamae in 1977, Crite joined the MIT Community Fellows program and announced his intentions for the home to be opened as a cultural space in 1983. The same year, South End organizer Mel King established his political alliance known as the Rainbow Coalition, which met on the first floor of Crite’s home.[2] With the help of his dedicated wife, Jacquelyn Cleveland Cox Crite, the two operated the house museum until increased South End gentrification and rising property values made living and operating out of the bow-fronted house impossible.[3]\n Crite Park opened in 1985 only steps away from Crite’s former home on Columbus Avenue. Friends of Crite Park fundraised for the plaza, which was restored in 2025 and serves as a reflection space dedicated to Allan Rohan Crite and his legacy in the community.",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "St. John St. James Church, Roxbury. St John St James Church Roxbury - Articles, February 16, 2020. http://stjohnstjamesroxbury.randombasket.com/article2020-02-16a.asp.",
+      },
+      {
+        "number": 2,
+        "content": "We are grateful to Kathleen Bitetti for this information.",
+      },
+      {
+        "number": 3,
+        "content": "Diana Seave Greenwald and Christina Michelon, Allan Rohan Crite: Neighborhood Liturgy (Boston: Boston Athenaeum and Isabella Stewart Gardner Museum. Distributed by Princeton University Press, 2025).",
       }
     ]
   },
