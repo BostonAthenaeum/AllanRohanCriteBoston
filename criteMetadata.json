@@ -422,14 +422,14 @@ https://dc.suffolk.edu/afam/1.; Crite, Allan Rohan. The Last of Dillon Street. W
     "images": [
       {
         "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/10/full/full/0/default.jpg",
-        "title": "title_placeholder",
+        "title": "In the Choir Robing Room",
         "format": "format_placeholder",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/10/rec/12",
         "caption": "Crite, Allan Rohan. In the Choir Robing Room. January 1939. Graphite, 42.4 x 30.7 cm. Boston Athenaeum."
       },
       {
         "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/23/full/full/0/default.jpg",
-        "title": "title_placeholder",
+        "title": "An Incident at Mass",
         "format": "format_placeholder",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/23/rec/1",
         "caption": "Crite, Allan Rohan. An Incident at Mass. 1940. Watercolor with black ink and white highlights over graphite, 38.1 x 28 cm. Boston Athenaeum."
@@ -452,27 +452,27 @@ content": "“Urban Renewal Quick Facts.” Boston Urban Renewal. https://www.bo
     "images": [
       {
         "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
+        "title": "A Maternity Club",
         "format": "format_placeholder",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/28/rec/13",
         "caption": "Crite, Allan Rohan. A Maternity Club. July 1940. Watercolor with black ink and white highlights over graphite ; 38 x 28 cm."
       },
       {
         "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
+        "title": "Madison Park, Roxbury",
         "format": "format_placeholder",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/4/rec/7",
         "caption": "Crite, Allan Rohan. Madison Park, Roxbury. 1938. Pen, brush and black and brown ink, 38.2 x 27.9 cm. Boston Athenaeum."
       },
       {
         "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
+        "title": "Annie Holdes Her Baby in Madison Park",
         "format": "format_placeholder",
         "url": "http://hdl.handle.net/2047/D20197237",
         "caption": "Hall, Winifred Irish. Annie Holds her Baby in Madison Park. [1935-1945]. Photography by Winifred Irish Hall, Lower Roxbury Black History Project, Northeastern University Archives and Special Collections."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Allan Rohan Crite frequented Madison Park and its surrounding neighborhood. His works depicting the historical site (e.g., Settling the World’s Problems (1933) and A Course in Music Appreciation (1940) are filled with Black Bostonians at leisure and provide a visual record of the forgotten meeting point and cultural hub.[1]\n The young neighborhood photographer Winifred “Winnie” Irish Hall also focused her practice on the location and shared Crite’s interest in the park’s communal nature. Crite’s 1940 watercolor, A Maternity Club shows mothers and caregivers in Madison Park surrounding a pram akin to the scene in Hall’s photograph Annie Holds Her Baby in Madison Park [1935-1945].[2] The two artists’ scenes from the urban space blend together as visual memories of the Madison Park neighborhood, creating a repository of Black past and futurity for Boston’s South End and Lower Roxbury in the early to mid twentieth century.\n In 1962, Boston Redevelopment Authority (BRA) Director Ed Logue devised an urban renewal plan and commissioned a tandem Boston Public School redesign that would eradicate the Madison Park neighborhood in favor of a 50-acre, city-wide high school campus.[3] The former residents that inhabited the area, a low-income, African-American community, were not opposed to a new school, but rather the estimated displacement of 385 families living there. A year-long battle from 1966-1967 between the BRA and the community-driven Lower Roxbury Community Corporation (LRCC, or present-day Madison Park Development Corporation) forced a memorandum of understanding to guarantee fifteen acres of land for “no less than four hundred new or rehabilitated housing units."[4] Lower Roxbury residents did not see sufficient replacement housing, and demolition for the school project radically reshaped the neighborhood, but the pushback and show of force by community members paved the way for American tenant organizing.[5]",
     "footnotes": [
       {
         "number": 1,
@@ -497,90 +497,112 @@ content": "“Urban Renewal Quick Facts.” Boston Urban Renewal. https://www.bo
     ]
   },
   {
-    "location_name": "Row 14",
+    "location_name": "Charlestown Navy Yard",
     "location_number": 14,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
+        "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/39/full/full/0/default.jpg",
+        "title": "Passing Parade",
         "format": "format_placeholder",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/39/rec/47.",
         "caption": "Crite, Allan Rohan. Passing Parade. 1943. Watercolor with black ink and white gouache over graphite, 31.1 x 23.4 cm. Boston Athenaeum."
       },
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
+        "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/35/full/full/0/default.jpg",
+        "title": "Have Your Pass Ready",
         "format": "format_placeholder",
-        "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/35/rec/4.",
+        "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/35/rec/4",
         "caption": "Crite, Allan Rohan. Have Your Pass Ready. 1943. Watercolor with black ink and gouache over graphite on paper, 32.2 x 25.8 cm. Boston Athenaeum."
       },
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
+        "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/40/full/full/0/default.jpg",
+        "title": "7 a.m. car",
         "format": "format_placeholder",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/40/rec/41",
         "caption": "Crite, Allan Rohan. 7 a.m. car. 1943. Watercolor and black ink over graphite, 28.8 x 21.6 cm. Boston Athenaeum."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Allan Rohan Crite (1910-2007) produced a prolific quantity and range of pieces as a working artist. He worked briefly as a mapmaker for the United States Coast and Geodetic Survey’s Boston office which closed and subsequently transferred Crite to the Charlestown Navy Yard in 1940. The job served as a stable source of income for him and his mother, Annamae, after his father’s untimely death in 1937.[1]\n Crite worked first as a draughtsman and then as an illustrator for the Charlestown Navy Yard’s Design Department from 1941 until the industrial site’s closure in 1974. He received an exemption from the national draft and witnessed the site’s expansion throughout World War II. In oral histories of his tenure at the Navy Yard, Crite attests to being the only illustrator on staff, which he attributed to his ability to create perspective drawings of propulsion and missile systems.\n Despite his long tenure, Crite never received a promotion to a supervisory role.[2] Racism and workplace discrimination were common for Black workers in the Navy Yard, many of whom collectively organized for better opportunities.The Boston National Historical Park estimates 2,000 of the 47,000 total shipyard workers in November 1943 were Black, a figure spurred by the Great Migration and wartime recruitment.[3] Crite avoided explicitly political discussion of the military environment, but his artistic work captures the changing demographics at the shipyard. In 1943, he produced a series of watercolors illustrating scenes from the commute to Charlestown, activity at the facility, and conditions in the draft room.[4] Taken together, Crite’s portfolio as a draftsman and working artist provides a visual record of Boston’s changing labor dynamics and military production.",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "“Allan Rohan Crite: The Artist in the Shipyard (U.S. National Park Service).” National Parks Service. https://www.nps.gov/articles/000/cny-allan-crite.htm#_ftn5."
+      },
+      {
+        "number": 2,
+        "content": "Allan Rohan Crite, interview by Francy K. Bockoven. April 27, 1984. Interview Transcript and Recording. Boston Naval Shipyard Oral Histories. BOSTS16364. Boston National Historical Park."
+      },
+      {
+        "number": 3,
+        "content": "“From the Great Migration to Boston’s Charlestown Navy Yard (U.S. National Park Service).” Boston National Historical Park. National Parks Service. https://www.nps.gov/articles/great-migration-to-charlestown-navy-yard.htm#_ftn24."
+      },
+      {
+        "number": 4,
+        "content": "Crite, Allan Rohan. In the Drafting Room. 1943. Boston Athenaeum. https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/36/rec/37.; Crite, Allan Rohan. Passing Parade. 1943. Boston Athenaeum. https://cdm.bostonath
+enaeum.org/digital/collection/p16057coll31/id/39/rec/47.; Crite, Allan Rohan. Consultation in the Drafting Room. 1943. Boston Athenaeum. https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/34/rec/1.; Crite, Allan Rohan. Nonchalant. 1943. Boston Athenaeum. https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/42/rec/43.; Crite, Allan Rohan. Have your pass ready. 1943. Boston Athenaeum. https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/35/rec/4.; 
+Crite, Allan Rohan. 7 a.m. Car. 1943. Boston Athenaeum. https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/40/rec/41."
       }
     ]
   },
   {
-    "location_name": "Row 15",
+    "location_name": "St. John's Workshop",
     "location_number": 15,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
+        "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/21/full/full/0/default.jpg",
+        "title": "Feast of the Assumption of the Blessed Virgin Mary",
         "format": "format_placeholder",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/21/rec/22",
         "caption": "Crite, Allan Rohan. Feast of the Assumption of the Blessed Virgin Mary. August 15, 1940. Watercolor with black ink and white gouache over graphite, 38.1 x 28.1 cm."
       },
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
+        "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/30/full/full/0/default.jpg",
+        "title": "St. James Episcopal Church from Washington St.",
         "format": "format_placeholder",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/30/rec/31",
         "caption": "Crite, Allan Rohan. St. James Ep[iscopal] Church from Washington St., Roxbury. May 1940. Watercolor with black ink and white highlights over graphite, 38.1 x 28 cm. Boston Athenaeum."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Allan Rohan Crite (1910-2007) purchased an offset lithography press in the 1950s which allowed him to create multiples of his work, including prints and church bulletins which he shared with loved ones and the greater Boston community. Crite’s press was originally housed at 1251 Tremont Street, St. John’s Information Center, commonly referred to as St. John’s Workshop.[1] The three-decker building was a community space run by St. John’s Episcopal Church, which still congregates today as St. John St. James Church of Roxbury, Massachusetts, a merger between the St. John’s Episcopal Church and St. James Episcopal Church congregations. Crite’s use of a parish hall as a studio allowed him to be in community as he produced work. He met his lifelong friend Byron Rushing at St. John’s Workshop; Rushing would go on to become a Massachusetts state representative and director of Boston’s Museum of African American History.[2] Crite moved the press into his new home at 410 Columbus Avenue in 1971 after his childhood home at 2 Dilworth Street was torn down. He created church bulletins for St. John's, St. James, and the Episcopal Diocese of Boston for over 30 years.[3]",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
-      }
+        "content": "Boston Redevelopment Authority. Campus High School Project Newsletter. August 1967. Boston Public Library. https://archive.org/details/campushighschool1967bost."
+      },
+      {
+        "number": 2,
+        "content": "We are grateful to Byron Rushing for this information."
+      },
+      {
+        "number": 3,
+        "content": "St. John St. James Church, Roxbury, February 16, 2020. http://stjohnstjamesroxbury.randombasket.com/article2020-02-16a.asp."
+      },
     ]
   },
   {
-    "location_name": "Row 16",
+    "location_name": "Harvard University",
     "location_number": 16,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
+        "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/0/full/full/0/default.jpg",
+        "title": "Our Lady of Harvard Square",
         "format": "format_placeholder",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/0/rec/3",
         "caption": "Crite, Allan Rohan. Our Lady of Harvard Square. [between 1935 and 1955]. Pen, brush and ink over graphite, 28 x 21.6 cm. Boston Athenaeum."
       },
       {
         "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
+        "title": "Weld Boat Club on the Charles River",
         "format": "format_placeholder",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/32/rec/55",
         "caption": "Crite, Allan Rohan. Weld Boat Club on the Charles River. August 1940. Watercolor with black ink and white gouache over graphite, 28.1 x 38.1."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Allan Rohan Crite (1910-2007) was a lifelong student. He graduated from Harvard’s Extension School in 1968 while working full-time as a technical illustrator and draughtsman at the Charlestown Navy Yard and maintaining his art practice in between shifts and coursework. He inherited a love for Harvard from his mother, Annamae, who also took classes at the Extension School from 1910 through the 1950s. During the same period, Harvard University Press published Crite’s preeminent liturgical works Were You There When They Crucified My Lord (1944) and Three Spirituals from Earth to Heaven (1948). In 1968, the Harvard Extension School established the Annamae and Allan R. Crite Prize as a testament to the mother and son’s dedication to learning and passion for the university. When the Navy Yard closed in 1974, Crite returned to Harvard as a part-time librarian for the Extension School’s Grossman Library. He held the position until 1989 and also accepted an artist-in-residence opportunity at Harvard’s Semitic Museum, now the Museum of the Ancient Near East.[1]",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "Diana Seave Greenwald and Christina Michelon, Allan Rohan Crite: Neighborhood Liturgy (Boston: Boston Athenaeum and Isabella Stewart Gardner Museum. Distributed by Princeton University Press, 2025)."
       }
     ]
   },
