@@ -589,23 +589,23 @@
       {
         "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/0/full/full/0/default.jpg",
         "title": "Our Lady of Harvard Square",
-        "format": "format_placeholder",
+        "format": "Pen, brush and ink over graphite on paper",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/0/rec/3",
         "caption": "Crite, Allan Rohan. <i>Our Lady of Harvard Square</i>. [between 1935 and 1955]. Pen, brush and ink over graphite, 28 x 21.6 cm. Boston Athenaeum."
       },
       {
         "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/32/full/full/0/default.jpg",
         "title": "Weld Boat Club on the Charles River",
-        "format": "format_placeholder",
+        "format": "Watercolor with black ink and white gouache over graphite on paper",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/32/rec/55",
         "caption": "Crite, Allan Rohan. <i>Weld Boat Club on the Charles River</i>. August 1940. Watercolor with black ink and white gouache over graphite, 28.1 x 38.1."
       },
       {
         "path": "insert github repository endpoint here",
         "title": "Harvard Registration",
-        "format": "format_placeholder",
+        "format": "Offset black and white lithograph",
         "url": "https://catalog.bostonathenaeum.org/vwebv/holdingsInfo?bibId=381364",
-        "caption": "Crite, Allan Rohan. \"Harvard Registration\" from <i>Neighborhood Scenes</i>. 1978. Offset lithographs, b&w and color, 21.7 x 35.6cm. or 35.6 x 21.7 cm."
+        "caption": "Crite, Allan Rohan. \"Harvard Registration\" from <i>Neighborhood Scenes</i>. 1978. Offset lithograph, b&w and color, 21.7 x 35.6cm. or 35.6 x 21.7 cm."
       }
     ],
     "description": "Allan Rohan Crite (1910-2007) was a lifelong student. He graduated from Harvard’s Extension School in 1968 while working full-time as a technical illustrator and draughtsman at the Charlestown Navy Yard and maintaining his art practice in between shifts and coursework. He inherited a love for Harvard from his mother, Annamae, who also took classes at the Extension School from 1910 through the 1950s. During the same period, Harvard University Press published Crite’s preeminent liturgical works <i>Were You There When They Crucified My Lord</i> (1944) and <i>Three Spirituals from Earth to Heaven</i> (1948). In 1968, the Harvard Extension School established the Annamae and Allan R. Crite Prize as a testament to the mother and son’s dedication to learning and passion for the university. When the Navy Yard closed in 1974, Crite returned to Harvard as a part-time librarian for the Extension School’s Grossman Library. He held the position until 1989 and also accepted an artist-in-residence opportunity at Harvard’s Semitic Museum, now the Museum of the Ancient Near East.[1]",
@@ -660,7 +660,7 @@
     "footnotes": [
       {
         "number": 1,
-        "content": "St. John St. James Church, Roxbury. St John St James Church Roxbury - Articles, February 16, 2020. http://stjohnstjamesroxbury.randombasket.com/article2020-02-16a.asp."
+        "content": "St. John St. James Church, Roxbury. St John St James Church Roxbury - Articles, February 16, 2020. <http://stjohnstjamesroxbury.randombasket.com/article2020-02-16a.asp.>"
       },
       {
         "number": 2,
@@ -678,13 +678,13 @@
     "images": [
       {
         "path": "needs github repository endpoint",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
+        "title": "Washington Street and Boylston Street",
+        "format": "Offset color lithograph",
         "url": "https://catalog.bostonathenaeum.org/vwebv/holdingsInfo?searchId=479052&recCount=50&recPointer=4&bibId=381211",
-        "caption": "Crite, Allan Rohan. Combat Zone. 1977-1978. Offset lithographs, color and b&w, 21.7 x 28 cm. or 21.7 x 35.6 cm. + 1 booklet. Boston Athenaeum."
+        "caption": "Crite, Allan Rohan. <i>Washington Street and Boylston Street</i> from the <i>Combat Zone</i> portfolio. 1977-1978. Offset lithographs, color and b&w, 21.7 x 28 cm. or 21.7 x 35.6 cm. + 1 booklet. Boston Athenaeum."
       }
     ],
-    "description": "Allan Rohan Crite (1910-2007) became explicitly political and outspoken on the democratization of artwork and censorship in the late 1970s through the 1990s, after the death of his mother Annamae and at the height of the culture wars on sexuality, abortion, and HIV/AIDS. His booklet Combat Zone (1977-1978) depicts and describes his attitudes towards the commodification and alienation of intimacy seen in the sex district in downtown Boston after the Boston Redevelopment Authority zoned and contained the area in 1974.[1] In September 1990, he delivered his lecture “Art is Public Business” in University of Massachusetts Boston’s Snowden Hall on the topics of nudity and artistic suppression. He shared, “We do a lot of offensive things in the body, but in a real sense, it is the only thing we have to work with, at least in this phase of life as we know it.” The University’s Harbor Gallery held a concurrent exhibition of Crite’s work, containing a nude triptych titled <i>Fig Leaves</i>, where the Chancellor was scheduled to attend the Convocation Day reception. Reported controversy surrounding the obscenity and morality of the piece led to the forced relocation of the reception.[2]",
+    "description": "Allan Rohan Crite (1910-2007) became explicitly political and outspoken on the democratization of artwork and censorship in the late 1970s through the 1990s, after the death of his mother Annamae and at the height of the culture wars on sexuality, abortion, and HIV/AIDS. His booklet <i>Combat Zone</i> (1977-1978) depicts and describes his attitudes towards the commodification and alienation of intimacy seen in the sex district in downtown Boston after the Boston Redevelopment Authority zoned and contained the area in 1974.[1] In September 1990, he delivered his lecture “Art is Public Business” in University of Massachusetts Boston’s Snowden Hall on the topics of nudity and artistic suppression. He shared, “We do a lot of offensive things in the body, but in a real sense, it is the only thing we have to work with, at least in this phase of life as we know it.” The University’s Harbor Gallery held a concurrent exhibition of Crite’s work, containing a nude triptych titled <i>Fig Leaves</i>, where the Chancellor was scheduled to attend the Convocation Day reception. Reported controversy surrounding the obscenity and morality of the piece led to the forced relocation of the reception.[2]",
     "footnotes": [
       {
         "number": 1,
@@ -702,21 +702,21 @@
     "images": [
       {
         "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
+        "title": "410 Columbus Avenue",
+        "format": "Offset color lithograph",
         "url": "url_placeholder",
-        "caption": "Crite, Allan Rohan. <i>Columbus Avenue from An Artist Sketchbook of the South End: A Walking Tour about Black People</i>. 1977. Offset color lithograph, 21.7 x 27.9 cm. Boston Athenaeum. UT.9 U9 Cri.a. 1977."
+        "caption": "Crite, Allan Rohan. <i>410 Columbus Avenue</i> from <i>An Artist Sketchbook of the South End: A Walking Tour about Black People</i>. 1977. Offset color lithograph, 21.7 x 27.9 cm. Boston Athenaeum. UT.9 U9 Cri.a. 1977."
       }
     ],
     "description": "Allan Rohan Crite and his mother Annamae moved to 410 Columbus Avenue in 1971 after their home at 2 Dilworth Street was marked as blighted and torn down as part of the South End Urban Renewal Project and related right-of-way expansions.[1] The extra space allowed Crite to move his offset lithography press from St. John’s Workshop, the Parish hall for St. John’s Episcopal Church on 1251 Tremont Street to the brownstone on Columbus.[2] The house at 410 Columbus Avenue became Crite’s studio space, and eventually, a house museum. After the passing of mother Annamae in 1977, Crite joined the MIT Community Fellows program and announced his intentions for the home to be opened as a cultural space in 1983. The same year, South End organizer Mel King established his political alliance known as the Rainbow Coalition, which met on the first floor of Crite’s home.[3] With the help of his dedicated wife, Jacquelyn Cleveland Cox Crite, the two operated the house museum until increased South End gentrification and rising property values made living and operating out of the bow-fronted house impossible.[4]\n Crite Park opened in 1985 only steps away from Crite’s former home on Columbus Avenue. Friends of Crite Park fundraised for the plaza, which was restored in 2025 and serves as a reflection space dedicated to Allan Rohan Crite and his legacy in the community.",
     "footnotes": [
       {
         "number": 1,
-        "content": "Boston Redevelopment Authority. “Illustrative Site Plan: South End Urban Renewal Area, Massachusetts R-56.” Map. Circa 1969. <i>Norman B. Leventhal Map & Education Center</i>. <https://collections.leventhalmap.org/search/commonwealth:fn109f178.; Boston Redevelopment Authority. “South End Urban Renewal Area R-56 : Proposed Rights-of-Way.” Map. May 1965. <i>Norman B. Leventhal Map & Education Center</i>. https://collections.leventhalmap.org/search/commonwealth:7h14cz12d>."
+        "content": "Boston Redevelopment Authority. “Illustrative Site Plan: South End Urban Renewal Area, Massachusetts R-56.” Map. Circa 1969. <i>Norman B. Leventhal Map & Education Center</i>. <https://collections.leventhalmap.org/search/commonwealth:fn109f178>.; Boston Redevelopment Authority. “South End Urban Renewal Area R-56 : Proposed Rights-of-Way.” Map. May 1965. <i>Norman B. Leventhal Map & Education Center</i>. <https://collections.leventhalmap.org/search/commonwealth:7h14cz12d>."
       },
       {
         "number": 2,
-        "content": "St. John St. James Church, Roxbury. St John St James Church Roxbury - Articles, February 16, 2020. http://stjohnstjamesroxbury.randombasket.com/article2020-02-16a.asp."
+        "content": "St. John St. James Church, Roxbury. St John St James Church Roxbury - Articles, February 16, 2020. <http://stjohnstjamesroxbury.randombasket.com/article2020-02-16a.asp>."
       },
       {
         "number": 3,
@@ -735,9 +735,9 @@
       {
         "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/55/full/full/0/default.jpg",
         "title": "Old South Church from the Old Granary Burial Ground",
-        "format": "g to check catalog spelling",
+        "format": "Watercolor, gouache, and ink on paper",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/55/rec/2",
-        "caption": "Crite, Allan Rohan. Old South Church [i.e. Park Street Church] from the Old Granary Buryial [sic] Ground. 1941. Watercolor, gouache, ink ; sheet 43 x 36 cm."
+        "caption": "Crite, Allan Rohan. <i>Old South Church [i.e. Park Street Church] from the Old Granary Buryial [sic] Ground</i>. 1941. Watercolor, gouache, ink ; sheet 43 x 36 cm."
       }
     ],
     "description": "Allan Rohan Crite (1910-2007) maintained a close relationship with the Boston Athenaeum throughout his career. Beginning in 1948, Crite was featured in numerous solo exhibitions at the Athenaeum. He corresponded often with former director Walter Muir Whitehill, who helped publish Crite’s <i>The Cultural Foundations of America</i> (1968) through the Athenaeum. The publication and accompanying exhibition retold a history of the United States that focused on the interconnectedness of colonialism, diasporas, and struggles for liberation. In 1971, Crite gifted sixteen oil paintings, thirty-nine watercolors, and fifteen ink drawings to the Boston Athenaeum ahead of his housing search and move the same month. The South End Urban Renewal Project plan and subsequent transportation redevelopment plans slated Crite’s childhood home at 2 Dilworth Street for destruction, forcing him and his mother to relocate to a brownstone at 410 Columbus Avenue.",
