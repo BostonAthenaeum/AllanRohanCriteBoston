@@ -458,26 +458,26 @@
       {
         "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
         "title": "A Maternity Club",
-        "format": "format_placeholder",
+        "format": "Watercolor with black ink and white highlights over graphite on paper",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/28/rec/13",
         "caption": "Crite, Allan Rohan. <i>A Maternity Club</i>. July 1940. Watercolor with black ink and white highlights over graphite ; 38 x 28 cm."
       },
       {
         "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
         "title": "Madison Park, Roxbury",
-        "format": "format_placeholder",
+        "format": "Pen, brush and black and brown ink on paper",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/4/rec/7",
         "caption": "Crite, Allan Rohan. <i>Madison Park, Roxbury</i>. 1938. Pen, brush and black and brown ink, 38.2 x 27.9 cm. Boston Athenaeum."
       },
       {
         "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
         "title": "Annie Holdes Her Baby in Madison Park",
-        "format": "format_placeholder",
+        "format": "Photograph",
         "url": "http://hdl.handle.net/2047/D20197237",
         "caption": "Hall, Winifred Irish. <i>Annie Holds her Baby in Madison Park</i>. [1935-1945]. Photography by Winifred Irish Hall, Lower Roxbury Black History Project, Northeastern University Archives and Special Collections."
       }
     ],
-    "description": "Allan Rohan Crite frequented Madison Park and its surrounding neighborhood. His works depicting the historical site (e.g., <i>Settling the World’s Problems</i> (1933) and <i>A Course in Music Appreciation</i> (1940)) are filled with Black Bostonians at leisure and provide a visual record of the forgotten meeting point and cultural hub.[1]\n The young neighborhood photographer Winifred “Winnie” Irish Hall also focused her practice on the location and shared Crite’s interest in the park’s communal nature. Crite’s 1940 watercolor, <i>A Maternity Club</i> shows mothers and caregivers in Madison Park surrounding a pram akin to the scene in Hall’s photograph <i>Annie Holds Her Baby in Madison Park</i> [1935-1945].[2] The two artists’ scenes from the urban space blend together as visual memories of the Madison Park neighborhood, creating a repository of Black past and futurity for Boston’s South End and Lower Roxbury in the early to mid twentieth century.\n In 1962, Boston Redevelopment Authority (BRA) Director Ed Logue devised an urban renewal plan and commissioned a tandem Boston Public School redesign that would eradicate the Madison Park neighborhood in favor of a 50-acre, city-wide high school campus.[3] The former residents that inhabited the area, a low-income, African-American community, were not opposed to a new school, but rather the estimated displacement of 385 families living there. A year-long battle from 1966-1967 between the BRA and the community-driven Lower Roxbury Community Corporation (LRCC, or present-day Madison Park Development Corporation) forced a memorandum of understanding to guarantee fifteen acres of land for “no less than four hundred new or rehabilitated housing units.\"[4] Lower Roxbury residents did not see sufficient replacement housing, and demolition for the school project radically reshaped the neighborhood, but the pushback and show of force by community members paved the way for American tenant organizing.[5]",
+    "description": "Allan Rohan Crite frequented Madison Park and its surrounding neighborhood. His works depicting the historical site (e.g., <i>Settling the World’s Problems</i> (1933) and <i>A Course in Music Appreciation</i> (1940)) are filled with Black Bostonians at leisure and provide a visual record of the forgotten meeting point and cultural hub.[1]\n The young neighborhood photographer Winifred “Winnie” Irish Hall also focused her practice on the location and shared Crite’s interest in the park’s communal nature. Crite’s 1940 watercolor, <i>A Maternity Club</i> shows mothers and caregivers in Madison Park surrounding a pram akin to the scene in Hall’s photograph <i>Annie Holds Her Baby in Madison Park</i> [1935-1945].[2] The two artists’ scenes from the urban space blend together as visual memories of the Madison Park neighborhood, creating a repository of Black past and futurity for Boston’s South End and Lower Roxbury in the early to mid twentieth century.\n In 1962, Boston Redevelopment Authority (BRA) Director Ed Logue devised an urban renewal plan and commissioned a tandem Boston Public School redesign that would eradicate the Madison Park neighborhood in favor of a 50-acre, city-wide high school campus.[3] The former residents that inhabited the area, a low-income, African-American community, were not opposed to a new school, but rather the estimated displacement of 385 families living there. A year-long battle from 1966-1967 between the BRA and the community-driven Lower Roxbury Community Corporation (LRCC, or present-day Madison Park Development Corporation) forced a memorandum of understanding to guarantee fifteen acres of land for “no less than four hundred new or rehabilitated housing units.\"[4] Lower Roxbury residents did not see sufficient replacement housing, and demolition for the school project radically reshaped the neighborhood, but the pushback and show of force by community members paved the way for neighborhood-level organizing in the United States.[5]",
     "footnotes": [
       {
         "number": 1,
@@ -485,7 +485,7 @@
       },
       {
         "number": 2,
-        "content": "Crite, Allan Rohan. <i>A Maternity Club</i>. 1978. Boston Athenaeum. <https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/28/rec/13>.; Hall, Winifred Irish. Annie holds her baby in Madison Park. [1935-1945]. Photography by Winifred Irish Hall, Lower Roxbury Black History Project, Northeastern University Archives and Special Collections. http://hdl.handle.net/2047/D20197237."
+        "content": "Crite, Allan Rohan. <i>A Maternity Club</i>. 1978. Boston Athenaeum. <https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/28/rec/13>.; Hall, Winifred Irish. Annie holds her baby in Madison Park. [1935-1945]. Photography by Winifred Irish Hall, Lower Roxbury Black History Project, Northeastern University Archives and Special Collections. <http://hdl.handle.net/2047/D20197237/>."
       },
       {
         "number": 3,
@@ -497,7 +497,7 @@
       },
       {
         "number": 5,
-        "content": "Boston Redevelopment Authority. “Campus High School Urban Renewal Area Mass. r-129 : Proposed Land-Use.” Map. April 1972. <i>Norman B. Leventhal Map & Education Center</i>. <https://collections.leventhalmap.org/search/commonwealth:qz20w877m.; See also, Crockett, Karilyn. <i>People Before Highways: Boston Activists, Urban Planners, and a New Movement for City Making</i>. Amherst: University of Massachusetts Press, 2018.; “Place Names, Boundaries, and Real-World Impacts: The Story of Upper Roxbury.” Boston University Initiative on Cities. https://www.bu.edu/ioc/2022/01/31/place-names-boundaries-and-real-world-impacts-the-story-of-upper-roxbury/>."
+        "content": "Boston Redevelopment Authority. “Campus High School Urban Renewal Area Mass. r-129 : Proposed Land-Use.” Map. April 1972. <i>Norman B. Leventhal Map & Education Center</i>. <https://collections.leventhalmap.org/search/commonwealth:qz20w877m/>.; See also, Crockett, Karilyn. <i>People Before Highways: Boston Activists, Urban Planners, and a New Movement for City Making</i>. Amherst: University of Massachusetts Press, 2018.; “Place Names, Boundaries, and Real-World Impacts: The Story of Upper Roxbury.” Boston University Initiative on Cities. <https://www.bu.edu/ioc/2022/01/31/place-names-boundaries-and-real-world-impacts-the-story-of-upper-roxbury/>."
       }
     ]
   },
@@ -508,21 +508,21 @@
       {
         "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/39/full/full/0/default.jpg",
         "title": "Passing Parade",
-        "format": "format_placeholder",
+        "format": "Watercolor with black ink and white gouache over graphite on paper",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/39/rec/47.",
         "caption": "Crite, Allan Rohan. <i>Passing Parade</i>. 1943. Watercolor with black ink and white gouache over graphite, 31.1 x 23.4 cm. Boston Athenaeum."
       },
       {
         "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/35/full/full/0/default.jpg",
         "title": "Have Your Pass Ready",
-        "format": "format_placeholder",
+        "format": "Watercolor with black ink and gouache over graphite on paper",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/35/rec/4",
         "caption": "Crite, Allan Rohan. <i>Have Your Pass Ready</i>. 1943. Watercolor with black ink and gouache over graphite on paper, 32.2 x 25.8 cm. Boston Athenaeum."
       },
       {
         "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/40/full/full/0/default.jpg",
         "title": "7 a.m. car",
-        "format": "format_placeholder",
+        "format": "Watercolor and black ink over graphite on paper",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/40/rec/41",
         "caption": "Crite, Allan Rohan. <i>7 a.m. car</i>. 1943. Watercolor and black ink over graphite, 28.8 x 21.6 cm. Boston Athenaeum."
       }
@@ -531,7 +531,7 @@
     "footnotes": [
       {
         "number": 1,
-        "content": "“Allan Rohan Crite: The Artist in the Shipyard (U.S. National Park Service).” National Parks Service. <https://www.nps.gov/articles/000/cny-allan-crite.htm#_ftn5>."
+        "content": "\“Allan Rohan Crite: The Artist in the Shipyard (U.S. National Park Service).\” National Parks Service. <https://www.nps.gov/articles/000/cny-allan-crite.htm#_ftn5>."
       },
       {
         "number": 2,
@@ -539,7 +539,7 @@
       },
       {
         "number": 3,
-        "content": "“From the Great Migration to Boston’s Charlestown Navy Yard (U.S. National Park Service).” Boston National Historical Park. National Parks Service. <https://www.nps.gov/articles/great-migration-to-charlestown-navy-yard.htm#_ftn24>."
+        "content": "\“From the Great Migration to Boston’s Charlestown Navy Yard (U.S. National Park Service).\” Boston National Historical Park. National Parks Service. <https://www.nps.gov/articles/great-migration-to-charlestown-navy-yard.htm#_ftn24>."
       },
       {
         "number": 4,
@@ -554,14 +554,14 @@
       {
         "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/21/full/full/0/default.jpg",
         "title": "Feast of the Assumption of the Blessed Virgin Mary",
-        "format": "format_placeholder",
+        "format": "Watercolor with black ink and white gouache over graphite on paper",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/21/rec/22",
         "caption": "Crite, Allan Rohan. <i>Feast of the Assumption of the Blessed Virgin Mary</i>. August 15, 1940. Watercolor with black ink and white gouache over graphite, 38.1 x 28.1 cm."
       },
       {
         "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/30/full/full/0/default.jpg",
         "title": "St. James Episcopal Church from Washington St.",
-        "format": "format_placeholder",
+        "format": "Watercolor with black ink and white highlights over graphite on paper",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/30/rec/31",
         "caption": "Crite, Allan Rohan. <i>St. James Ep[iscopal] Church from Washington St., Roxbury</i>. May 1940. Watercolor with black ink and white highlights over graphite, 38.1 x 28 cm. Boston Athenaeum."
       }
@@ -578,7 +578,7 @@
       },
       {
         "number": 3,
-        "content": "St. John St. James Church, Roxbury, February 16, 2020. http://stjohnstjamesroxbury.randombasket.com/article2020-02-16a.asp."
+        "content": "St. John St. James Church, Roxbury, February 16, 2020. <http://stjohnstjamesroxbury.randombasket.com/article2020-02-16a.asp/>."
       }
     ]
   },
