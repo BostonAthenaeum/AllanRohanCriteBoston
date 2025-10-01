@@ -6,14 +6,14 @@
       {
         "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463k343/full/1200,/0/default.jpg",
         "title": "South End Branch. Mrs. Cronan Telling a Story",
-        "format": "format_placeholder",
+        "format": "Photograph",
         "url": "https://ark.digitalcommonwealth.org/ark:/50959/3f463k33t",
-        "caption": "South End Branch. Mrs. Cronan telling a story. Photograph. [1911\u20131923]. <i>Digital Commonwealth</i>."
+        "caption": "South End Branch. Mrs. Cronan telling a story. Photograph. [1911–1923]. <i>Digital Commonwealth</i>."
       },
       {
         "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/51/full/full/0/default.jpg",
         "title": "Early drawings of Allan Rohan Crite, ages 10-17",
-        "format": "format_placeholder",
+        "format": "Crayon, some with wash on paper sheet",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/51/rec/4",
         "caption": "Crite, Allan Rohan. <i>[Early drawings of Allan Rohan Crite, ages 10-17]</i>. 1920-1927. Crayon, some with wash, 31.4 x 45.5 cm. Boston Athenaeum."
       }
@@ -22,7 +22,7 @@
     "footnotes": [
       {
         "number": 1,
-        "content": "U.S. Census Bureau. Fourteenth Census of the United States: 1920-Population.Department of Commerce-Bureau of the Census. National Archives and Record Administration.; Oral history interview with Allan Rohan Crite, 1979 January 16-1980 October 22. Archives of American Art, Smithsonian Institution.; Walshin, Lydia. “Walking Tour.” <i>Glue</i> magazine, September 1997, 17-20."
+        "content": "U.S. Census Bureau. Fourteenth Census of the United States: 1920-Population. Department of Commerce-Bureau of the Census. National Archives and Record Administration.; Oral history interview with Allan Rohan Crite, 1979 January 16-1980 October 22. Archives of American Art, Smithsonian Institution.; Walshin, Lydia. “Walking Tour.” <i>Glue</i> magazine, September 1997, 17-20."
       },
       {
         "number": 2,
@@ -49,14 +49,14 @@
       {
         "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463k343/full/1200,/0/default.jpg",
         "title": "South End Branch. Mrs. Cronan Telling a Story",
-        "format": "format_placeholder",
+        "format": "Photograph",
         "url": "https://ark.digitalcommonwealth.org/ark:/50959/3f463k33t",
-        "caption": "South End Branch. Mrs. Cronan telling a story. Photograph. [1911\u20131923]. <i>Digital Commonwealth</i>."
+        "caption": "South End Branch. Mrs. Cronan telling a story. Photograph. [1911–1923]. <i>Digital Commonwealth</i>."
       },
       {
         "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/51/full/full/0/default.jpg",
         "title": "Early drawings of Allan Rohan Crite, ages 10-17",
-        "format": "format_placeholder",
+        "format": "Crayon, some with wash on paper sheet",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/51/rec/4",
         "caption": "Crite, Allan Rohan. <i>[Early drawings of Allan Rohan Crite, ages 10-17]</i>. 1920-1927. Crayon, some with wash, 31.4 x 45.5 cm. Boston Athenaeum."
       }
@@ -92,16 +92,16 @@
       {
         "path": "https://raw.githubusercontent.com/BostonAthenaeum/AllanRohanCriteBoston/refs/heads/main/images/girlsplaying.jpg",
         "title": "Fruit and Snow: from my window at 2 Dilworth St.",
-        "format": "format_placeholder",
+        "format": "Watercolor with ink and white highlights over graphite on paper",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/25/rec/1",
-        "caption": "Crite, Allan Rohan. Fruit and Snow: From My Window at 2 Dilworth St. January 1940. Watercolor with ink and white highlights over graphite on paper, 38.1 x 28 cm. Boston Athenaeum."
+        "caption": "Crite, Allan Rohan. <i>Fruit and Snow: From My Window at 2 Dilworth St</i>. January 1940. Watercolor with ink and white highlights over graphite on paper, 38.1 x 28 cm. Boston Athenaeum."
       },
       {
         "path": "https://raw.githubusercontent.com/BostonAthenaeum/AllanRohanCriteBoston/refs/heads/main/images/girlsplaying.jpg",
         "title": "Girls Playing on My Street",
-        "format": "format_placeholder",
+        "format": "Watercolor with black ink and white gouache over graphite on paper",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/22/rec/23",
-        "caption": "Crite, Allan Rohan. Girls Playing on My Street. August 1940. Watercolor with black ink and white gouache over graphite, 38.1 x 28 cm. Boston Athenaeum."
+        "caption": "Crite, Allan Rohan. <i>Girls Playing on My Street</i>. August 1940. Watercolor with black ink and white gouache over graphite, 38.1 x 28 cm. Boston Athenaeum."
       }
     ],
     "description": "In 1925 at the age of fifteen, Allan Rohan Crite moved with his family to 2 Dilworth Street in Lower Roxbury. The young artist spent key moments of his career inside the apartment that sat at the edge of Carter Playground in what was  historically the center of Boston’s Black community following migrations from Beacon Hill, the American South, and the Caribbean.[1] The Boston Redevelopment Authority (BRA) marked Dilworth street as blighted in 1960 and slated the residential block for demolition as part of the South End Urban Renewal Project of 1962. The agency later proposed the cluster of apartment buildings be removed in favor of a new elementary school.[2] According to Byron Rushing, former President of the Museum of African American History and former MA State Representative, the Crite family and their neighbors were eventually displaced when transportation redevelopment authorities demolished 2 Dilworth Street in 1971. Allan and his mother moved to a brownstone at 410 Columbus Avenue, and were among the more fortunate families that were able to relocate within the neighborhood. In total, the BRA estimated that a total of 1,517 families were displaced by the South End Urban Renewal Project.[3] ",
@@ -127,7 +127,7 @@
       {
         "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/53/full/full/0/default.jpg",
         "title": "Peter Meets the Men of Cornelius (Acts 10.21)",
-        "format": "format_placeholder",
+        "format": "Crayon on sheet",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/53/rec/54.",
         "caption": "Crite, Allan Rohan. <i>Peter Meets the Men of Cornelius (Acts 10.21)</i>. 1920-1927. Crayon, 30.4 x 45.5 cm. Boston Athenaeum."
       }
@@ -159,12 +159,12 @@
       {
         "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cf95jm991/full/1200,/0/default.jpg",
         "title": "English High School: Warren Ave. & Dartmouth St. Built 1877, George A. Clough, arch.",
-        "format": "format_placeholder",
+        "format": "Photograph",
         "url": "https://ark.digitalcommonwealth.org/ark:/50959/cf95jm98r",
         "caption": "Marr, Thomas E., -1910. \"Boston. Public Latin school. Warren Avenue and Dartmouth Street (now English High School).\" Photograph. [ca. 1905]. Digital Commonwealth."
       }
     ],
-    "description": "From an early age, Allan Rohan Crite (1910-2007) was a frequent patron of the Museum of Fine Arts (MFA). In the 1938 broadside  “Why I Illustrate the Spirituals”, Crite cited the MFA as having a profound influence on his career.. He recounted visits to the museum with his mother Annamae and the coursework provided through the School of the Museum of Fine Arts, then known as the Museum School.\n Crite graduated from English High School in 1929, then located on Warren Avenue and Dartmouth Street in Boston’s South End. Throughout high school he attended weekend vocational classes at the School of Museum of Fine Arts in composition, charcoal drawing, and textile design. Crite went on to attend and graduate from the Museum School on scholarship where he studied industrial design and a traditional art curriculum, and ultimately merged his Episcopal faith with his artistic practice.[1] He shared, “[...] after seven and one half years of earnest study at the School of the Museum of Fine Arts, I finally felt competent and confident enough that at last it was possible for me to be able to illustrate the Spirituals with a living vigor, which would help preserve them in all their living beauty.[2]",
+    "description": "From an early age, Allan Rohan Crite (1910-2007) was a frequent patron of the Museum of Fine Arts (MFA). In the 1938 broadside  <i>Why I Illustrate the Spirituals</i>, Crite cited the MFA as having a profound influence on his career.. He recounted visits to the museum with his mother Annamae and the coursework provided through the School of the Museum of Fine Arts, then known as the Museum School.\n Crite graduated from English High School in 1929, then located on Warren Avenue and Dartmouth Street in Boston’s South End. Throughout high school he attended weekend vocational classes at the School of Museum of Fine Arts in composition, charcoal drawing, and textile design. Crite went on to attend and graduate from the Museum School on scholarship where he studied industrial design and a traditional art curriculum, and ultimately merged his Episcopal faith with his artistic practice.[1] He shared, “[...] after seven and one half years of earnest study at the School of the Museum of Fine Arts, I finally felt competent and confident enough that at last it was possible for me to be able to illustrate the Spirituals with a living vigor, which would help preserve them in all their living beauty.[2]",
     "footnotes": [
       {
         "number": 1,
@@ -172,7 +172,7 @@
       },
       {
         "number": 2,
-        "content": "Crite, Allan Rohan. “Why I Illustrate the Spirituals.” <i>World Horizons</i>: A Magazine for Young People 1 (1938): 44-55."
+        "content": "Crite, Allan Rohan. \“Why I Illustrate the Spirituals.\” <i>World Horizons: A Magazine for Young People</i> 1 (1938): 44-55."
       }
     ]
   },
@@ -183,14 +183,14 @@
       {
         "path": "ask ian about this",
         "title": "Cambridge, Sunday Morning",
-        "format": "format_placeholder",
+        "format": "Oil on board",
         "url": "https://bostonathenaeum.org/library-collections/special-collections/paintings-sculpture-online/cambridge-sunday-morning/",
         "caption": "Crite, Allan Rohan. <i>Cambridge, Sunday Morning</i>. 1939. Oil on board, 57.5 x 67.5 cm. Boston Athenaeum."
       },
       {
         "path": "ask ian about this",
         "title": "Allan Crite Serving as Lay Reader at St. Bartholomew's Church",
-        "format": "format_placeholder",
+        "format": "Photograph",
         "url": "url_placeholder",
         "caption": "<i>Allan Crite Serving as Lay Reader at St. Bartholomew’s Church</i>. December 1944. Photograph. Courtesy of The Archives of the Episcopal Church."
       }
